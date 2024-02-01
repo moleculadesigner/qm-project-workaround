@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 cccbdb/cccbdb_data
+cccbdb/registry.json
 .DS_Store
+*.log

@@ -1,0 +1,1587 @@
+species,name,atoms,cas_no,charge
+H,Hydrogen atom,1,12385136,0.0
+D,Deuterium atom,1,16873179,0.0
+He,Helium atom,1,7440597,0.0
+Li,Lithium atom,1,7439932,0.0
+Be,Beryllium atom,1,7440417,0.0
+B,Boron atom,1,7440428,0.0
+C,Carbon atom,1,7440440,0.0
+N,Nitrogen atom,1,17778880,0.0
+O,Oxygen atom,1,17778802,0.0
+F,Fluorine atom,1,14762948,0.0
+Ne,Neon atom,1,7440019,0.0
+Na,Sodium atom,1,7440235,0.0
+Mg,Magnesium atom,1,7439954,0.0
+Al,Aluminum atom,1,7429905,0.0
+Si,Silicon atom,1,7440213,0.0
+P,Phosphorus atom,1,7723140,0.0
+S,Sulfur atom,1,7704349,0.0
+Cl,Chlorine atom,1,22537151,0.0
+Ar,Argon atom,1,7440371,0.0
+K,Potassium atom,1,7440097,0.0
+Ca,Calcium atom,1,7440702,0.0
+Sc,Scandium atom,1,7440202,0.0
+Ti,Titanium atom,1,7440326,0.0
+V,Vanadium atom,1,7440622,0.0
+Cr,Chromium atom,1,7440473,0.0
+Mn,Manganese atom,1,7439965,0.0
+Fe,Iron atom,1,7439896,0.0
+Co,Cobalt atom,1,7440484,0.0
+Ni,Nickel atom,1,7440020,0.0
+Cu,Copper atom,1,7440508,0.0
+Zn,Zinc atom,1,7440666,0.0
+Ga,Gallium atom,1,7440553,0.0
+Ge,Germanium atom,1,7440564,0.0
+As,Arsenic atomic,1,7440382,0.0
+Se,Selenium atom,1,7782492,0.0
+Br,Bromine atom,1,10097322,0.0
+Kr,Krypton atom,1,7439909,0.0
+Sn,Tin atom,1,7440315,0.0
+Sb,Antimony atom,1,7440360,0.0
+Te,Tellurium atom,1,13494809,0.0
+I,Iodine atom,1,14362448,0.0
+Xe,Xenon atom,1,7440633,0.0
+D2,Deuterium diatomic,2,7782390,0.0
+H2,Hydrogen diatomic,2,1333740,0.0
+HD,Deuterium hydride,2,13983205,0.0
+HeH,Helium hydride,2,9000219,0.0
+LiH,Lithium Hydride,2,7580678,0.0
+Li2,Lithium diatomic,2,14452596,0.0
+BeH,beryllium monohydride,2,13597972,0.0
+Be2,Beryllium diatomic,2,14452609,0.0
+LiBe,Lithium Beryllium,2,9000365,0.0
+BH,Boron monohydride,2,13766262,0.0
+B2,Boron diatomic,2,14452610,0.0
+LiB,Lithium boride,2,12523567,0.0
+BeB,Beryllium monoboride,2,57679637,0.0
+CH,Methylidyne,2,3315375,0.0
+LiC,Lithium Carbide,2,57788939,0.0
+BeC,Beryllium Carbide,2,57788940,0.0
+C2,Carbon diatomic,2,12070154,0.0
+BC,boron monocarbide,2,12011540,0.0
+NH,Imidogen,2,13774920,0.0
+BN,boron nitride,2,10043115,0.0
+LiN,Lithium Nitride,2,32746319,0.0
+BeN,Beryllium mononitride,2,37279111,0.0
+N2,Nitrogen diatomic,2,7727379,0.0
+CN,Cyano radical,2,2074875,0.0
+OH,Hydroxyl radical,2,3352576,0.0
+DO,Hydroxyl-d,2,13587547,0.0
+BO,boron monoxide,2,12505770,0.0
+NO,Nitric oxide,2,10102439,0.0
+LiO,lithium oxide,2,12142777,0.0
+O2,Oxygen diatomic,2,7782447,0.0
+CO,Carbon monoxide,2,630080,0.0
+BeO,beryllium oxide,2,1304569,0.0
+HF,Hydrogen fluoride,2,7664393,0.0
+DF,Hydrofluoric acid-d,2,14333267,0.0
+NF,nitrogen fluoride,2,13967061,0.0
+BF,Boron monofluoride,2,13768600,0.0
+BeF,Beryllium monofluoride,2,13597961,0.0
+FO,Oxygen monofluoride,2,12061700,0.0
+LiF,lithium fluoride,2,7789244,0.0
+F2,Fluorine diatomic,2,7782414,0.0
+CF,Fluoromethylidyne,2,3889756,0.0
+NeH,neon hydrogen,2,12200656,0.0
+Ne2,Neon diatomic,2,12185056,0.0
+NaH,sodium hydride,2,7646697,0.0
+NaF,sodium fluoride,2,7681494,0.0
+NaBe,Sodium Beryllium,2,9000368,0.0
+NaLi,lithium sodium,2,12333492,0.0
+NaO,sodium monoxide,2,12401864,0.0
+Na2,Sodium diatomic,2,25681792,0.0
+MgH,magnesium monohydride,2,14332537,0.0
+NaMg,Sodium Magnesium,2,9000370,0.0
+LiMg,Lithium magnesium,2,9000367,0.0
+Mg2,Magnesium diatomic,2,29904798,0.0
+MgF,Magnesium monofluoride,2,14953287,0.0
+MgN,Magnesium Nitride,2,60195155,0.0
+BeMg,Beryllium Magnesium,2,81099061,0.0
+MgO,magnesium oxide,2,1309484,0.0
+AlH,aluminum monohydride,2,13967221,0.0
+AlO,Aluminum monoxide,2,14457648,0.0
+BAl,Boron Aluminum,2,12250429,0.0
+AlF,Aluminum monofluoride,2,13595829,0.0
+LiAl,Lithium Aluminum,2,12042374,0.0
+AlN,Aluminum nitride,2,24304005,0.0
+NaAl,Sodium aluminum,2,39422247,0.0
+AlC,Aluminum carbide,2,37265944,0.0
+Al2,Aluminum diatomic,2,32752946,0.0
+SiH,Silylidyne,2,13774942,0.0
+BSi,Boron silicide,2,12589025,0.0
+Si2,Silicon diatomic,2,12597352,0.0
+SiN,Silicon nitride,2,12033602,0.0
+SiO,Silicon monoxide,2,10097286,0.0
+SiF,silicon monofluoride,2,11128248,0.0
+SiC,silicon monocarbide,2,409212,0.0
+PH,phosphorus monohydride,2,13967141,0.0
+PO,Phosphorus monoxide,2,14452665,0.0
+LiP,Lithium monophosphide,2,12259482,0.0
+CP,Carbon monophosphide,2,12326851,0.0
+P2,Phosphorus diatomic,2,12185090,0.0
+SiP,Silicon monophosphide,2,12137643,0.0
+AlP,Aluminum monophosphide,2,20859738,0.0
+PF,phosphorus monofluoride,2,16027922,0.0
+BP,Boron monophosphide,2,20205918,0.0
+PN,Phosphorus mononitride,2,17739478,0.0
+HS,Mercapto radical,2,13940211,0.0
+DS,Mercapto-d,2,13780239,0.0
+SO,Sulfur monoxide,2,13827322,0.0
+PS,phosphorus sulfide,2,12281366,0.0
+AlS,Aluminum sulfide,2,12251900,0.0
+BS,boron sulfide,2,12228396,0.0
+LiS,Lithium monosulfide,2,12401740,0.0
+SiS,silicon monosulfide,2,12504415,0.0
+BeS,beryllium sulfide,2,13598226,0.0
+NS,Mononitrogen monosulfide,2,12033566,0.0
+MgS,magnesium sulfide,2,12032369,0.0
+SF,Monosulfur monofluoride,2,16068965,0.0
+S2,Sulfur diatomic,2,23550450,0.0
+NaS,Sodium sulfide,2,115694774,0.0
+CS,carbon monosulfide,2,2944050,0.0
+DCl,Hydrochloric acid-d,2,7698057,0.0
+HCl,Hydrogen chloride,2,7647010,0.0
+NaCl,Sodium Chloride,2,7647145,0.0
+Cl2,Chlorine diatomic,2,7782505,0.0
+LiCl,lithium chloride,2,7447418,0.0
+CCl,carbon monochloride,2,3889767,0.0
+MgCl,magnesium monochloride,2,14989298,0.0
+ClO,Monochlorine monoxide,2,14989301,0.0
+SCl,sulfur monochloride,2,14989323,0.0
+PCl,phosphorus chloride,2,17167554,0.0
+BCl,boron monochloride,2,20583555,0.0
+ClF,Chlorine monofluoride,2,7790898,0.0
+AlCl,Aluminum monochloride,2,13595818,0.0
+NCl,nitrogen monochloride,2,12190759,0.0
+BeCl,beryllium monochloride,2,13814501,0.0
+SiCl,Clorosilylidyne,2,13966579,0.0
+Ar2,Argon diatomic,2,12595594,0.0
+KH,Potassium hydride,2,7693267,0.0
+KCl,Potassium Chloride,2,7447407,0.0
+KO,Potassium monoxide,2,12401706,0.0
+KF,Potassium Fluoride,2,7789233,0.0
+LiK,Lithium Potassium,2,12030830,0.0
+NaK,Sodium Potassium,2,12056290,0.0
+K2,Potassium diatomic,2,25681805,0.0
+CaH,Calcium monohydride,2,14452756,0.0
+CaF,Calcium monofluoride,2,13827264,0.0
+Ca2,Calcium diatomic,2,12595856,0.0
+CaS,Calcium sulfide,2,20548543,0.0
+CaCl,calcium monochloride,2,15606710,0.0
+CaC,Calcium monocarbide,2,65380769,0.0
+CaO,Calcium monoxide,2,1305788,0.0
+ScH,Scandium monohydride,2,33486021,0.0
+ScF,Scandium monofluoride,2,14017335,0.0
+ScO,Scandium monoxide,2,12059915,0.0
+TiH,Titanium monohydride,2,13776993,0.0
+TiO,Titanium monoxide,2,12137201,0.0
+TiN,Titanium mononitride,2,25583204,0.0
+TiCl,Titanium Monochloride,2,20190061,0.0
+VO,Vanadium monoxide,2,12035982,0.0
+CrH,Chromium hydride,2,13966795,0.0
+CuH,Copper monohydride,2,13517005,0.0
+CuF,Copper monofluoride,2,13478416,0.0
+Cu2,Copper diatomic,2,12190704,0.0
+CuO,Copper Monoxide,2,1317380,0.0
+CuCl,Copper monochloride,2,7758896,0.0
+ZnH,Zinc monohydride,2,13981878,0.0
+ZnF,Zinc monofluoride,2,9000139,0.0
+ZnCl,Zinc monochloride,2,9000151,0.0
+ZnO,zinc monoxide,2,1314132,0.0
+ZnS,Zinc sulfide,2,1314983,0.0
+GaH,Gallium monohydride,2,13572924,0.0
+GaF,Gallium monofluoride,2,13966784,0.0
+GaP,Gallium monophosphide,2,12063988,0.0
+GaO,Gallium monoxide,2,12024087,0.0
+GaS,Gallium monosulfide,2,12024101,0.0
+GaCl,Gallium monochloride,2,17108859,0.0
+GaN,Gallium mononitride,2,25617974,0.0
+AlGa,Aluminum Gallium,2,39399558,0.0
+Ga2,Gallium diatomic,2,74508240,0.0
+BGa,Boron Gallium,2,1408277064,0.0
+GeH,germylidene,2,13572991,0.0
+Ge2,Germanium diatomic,2,12596053,0.0
+GeC,Germanium monocarbide,2,12334268,0.0
+GeS,Germanium monosulfide,2,12025320,0.0
+GeCl,Germanium monochloride,2,9000388,0.0
+SiGe,Silicon Germanium,2,145998023,0.0
+GeO,Germanium monoxide,2,20619163,0.0
+GeF,Germanium monofluoride,2,14929465,0.0
+AsH,Arsenic monohydride,2,12628089,0.0
+AsP,Arsenic monophosphide,2,12255333,0.0
+AsS,Arsenic monosulfide,2,12044790,0.0
+AsO,Arsenic monoxide,2,12005991,0.0
+AsF,Arsenic monofluoride,2,15120135,0.0
+AsCl,Arsenic monochloride,2,17522780,0.0
+As2,Arsenic diatomic,2,23878468,0.0
+AsN,Arsenic mononitride,2,26754983,0.0
+GaAs,Gallium arsenide,2,1303000,0.0
+HSe,Selenium monohydride,2,13940222,0.0
+SiSe,Silicon Monoselenide,2,12211006,0.0
+SeO,Selenium monoxide,2,12640890,0.0
+PSe,Phosphorus monoselenide,2,12509410,0.0
+AsSe,Arsenic monoselenide,2,12006052,0.0
+GeSe,Germanium monoselenide,2,12065100,0.0
+NSe,Nitrogen monoselenide,2,12033599,0.0
+Se2,Selenium diatomic,2,12185170,0.0
+SeCl,Selenium monochloride,2,21259369,0.0
+CSe,Carbon monoselenide,2,16674183,0.0
+SeF,Selenium monofluoride,2,16846712,0.0
+LiSe,Lithium monoselenide,2,64171419,0.0
+SeS,Selenium monosulfide,2,7446346,0.0
+HBr,hydrogen bromide,2,10035106,0.0
+CaBr,Calcium monobromide,2,10024438,0.0
+SeBr,Selenium monobromide,2,12598708,0.0
+NBr,nitrogen monobromide,2,13967298,0.0
+BrCl,Bromine monochloride,2,13863417,0.0
+BrF,Bromine monofluoride,2,13863597,0.0
+PBr,Phosphorus monobromide,2,59727161,0.0
+SBr,Sulfur monobromide radical,2,74140673,0.0
+BBr,Boron monobromide,2,19961296,0.0
+SiBr,Silicon monobromide,2,14791572,0.0
+BrO,Bromine monoxide,2,15656196,0.0
+AlBr,Aluminum monobromide,2,22359973,0.0
+GaBr,Gallium monobromide,2,22655590,0.0
+LiBr,Lithium Bromide,2,7550358,0.0
+KBr,Potassium Bromide,2,7758023,0.0
+Br2,Bromine diatomic,2,7726956,0.0
+NaBr,Sodium Bromide,2,7647156,0.0
+CBr,Carbon monobromide,2,3889778,0.0
+SbH,Antimony monohydride,2,13940357,0.0
+SbN,Antimony nitride,2,12333572,0.0
+SbF,Antimony monofluoride,2,25285727,0.0
+SbCl,Antimony monochloride,2,19952126,0.0
+TeH,Telluryl radical,2,13940368,0.0
+TeO,Tellurium monoxide,2,13451177,0.0
+Te2,Tellurium diatomic,2,10028167,0.0
+HI,Hydrogen iodide,2,10034852,0.0
+LiI,Lithium Iodide,2,10377512,0.0
+IBr,Iodine monobromide,2,7789335,0.0
+ICl,Iodine monochloride,2,7790990,0.0
+IF,Iodine monofluoride,2,13873842,0.0
+IO,Iodine monoxide,2,14696981,0.0
+AlI,Aluminum monoiodide,2,29977411,0.0
+KI,Potassium Iodide,2,7681110,0.0
+NaI,Sodium Iodide,2,7681825,0.0
+I2,Iodine diatomic,2,7553562,0.0
+Li3,Lithium trimer,3,12596473,0.0
+BeH2,beryllium dihydride,3,7787522,0.0
+BH2,boron dihydride,3,14452643,0.0
+CH2,Methylene,3,2465567,0.0
+C2H,Ethynyl radical,3,2122487,0.0
+C3,carbon trimer,3,12075353,0.0
+NH2,Amino radical,3,13770406,0.0
+ND2,Amidogen-d2,3,15117847,0.0
+NNH,Dinitrogen monohydride,3,36882130,0.0
+HNB,hydrogen nitrogen boron,3,40493810,0.0
+HNC,hydrogen isocyanide,3,6914074,0.0
+HCN,Hydrogen cyanide,3,74908,0.0
+CNN,Diazocarbene,3,2468817,0.0
+LiCN,lithium cyanide,3,2408368,0.0
+NCN,Cyanoimidogen,3,1884646,0.0
+CN2,3H-Diazirin-3-ylidene,3,253308702,0.0
+N3,azide radical,3,12596600,0.0
+D2O,Deuterium oxide,3,7789200,0.0
+HDO,Water-d1,3,14940637,0.0
+H2O,Water,3,7732185,0.0
+HO2,Hydroperoxy radical,3,3170830,0.0
+LiOH,lithium hydroxide,3,1310663,0.0
+HCO,Formyl radical,3,2597446,0.0
+HBO,Boron hydride oxide,3,20611590,0.0
+NOH,Hydroxyimidogen,3,35337598,0.0
+BeOH,beryllium monohydroxide,3,20768687,0.0
+COH,Hydroxymethylidyne,3,71080927,0.0
+HNO,Nitrosyl hydride,3,14332286,0.0
+BO2,Boron dioxide,3,13840885,0.0
+LiO2,Lithium dioxide,3,12136560,0.0
+CCO,Dicarbon monoxide,3,12071237,0.0
+Li2O,dilithium oxide,3,12057248,0.0
+NO2,Nitrogen dioxide,3,10102440,0.0
+N2O,Nitrous oxide,3,10024972,0.0
+O3,Ozone,3,10028156,0.0
+LiO2,Lithium dioxide,3,120472248,0.0
+NCO,isocyanato radical,3,22400266,0.0
+CO2,Carbon dioxide,3,124389,0.0
+HCF,Fluoromethylene,3,13453526,0.0
+HOF,Hypofluorous acid,3,14034798,0.0
+FHF,Hydrogen difluoride,3,18130740,0.0
+FOO,Dioxygen monofluoride radical,3,15499237,0.0
+FBO,Boron monofluoride monoxide,3,23361560,0.0
+CNF,iso cyanogen fluoride,3,866495150,0.0
+FNO,Nitrosyl fluoride,3,7789255,0.0
+BeF2,Beryllium fluoride,3,7787497,0.0
+F2O,Difluorine monoxide,3,7783417,0.0
+BF2,Boron difluoride radical,3,13842552,0.0
+CF2,Difluoromethylene,3,2154598,0.0
+FCN,Cyanogen fluoride,3,1495507,0.0
+FCO,Carbonyl fluoride,3,1871245,0.0
+NF2,Difluoroamino radical,3,3744078,0.0
+NaOH,sodium hydroxide,3,1310732,0.0
+Na2O,disodium monoxide,3,1313593,0.0
+NaCN,Sodium Cyanide,3,143339,0.0
+NaO2,Sodium superoxide,3,12034127,0.0
+MgH2,magnesium dihydride,3,7693278,0.0
+MgOH,magnesium hydroxide,3,12141116,0.0
+MgF2,Magnesium fluoride,3,7783406,0.0
+AlH2,aluminum dihydride,3,14457659,0.0
+AlNC,Aluminum isocyanide,3,61192709,0.0
+AlCN,Aluminum monocyanide,3,19401015,0.0
+SiH2,silicon dihydride,3,13825906,0.0
+HSiF,fluorosilylene,3,50561303,0.0
+SiC2,Silicon dicarbide,3,12071271,0.0
+SiO2,silicon dioxide,3,7631869,0.0
+SiF2,Silicon difluoride,3,1396660,0.0
+PH2,Phosphino radical,3,13765430,0.0
+HPO,Hydrogen phosphorus oxide,3,13817066,0.0
+HCP,Phosphaethyne,3,6829523,0.0
+PF2,Phosphorus difluoride,3,13873524,0.0
+PO2,Phosphorus dioxide,3,12164975,0.0
+PPO,Phosphorus oxide phosphide,3,114584268,0.0
+H2S,Hydrogen sulfide,3,7783064,0.0
+D2S,Hydrogen sulfide-d2,3,13536942,0.0
+HBS,hydrogen boron sulfide,3,14457853,0.0
+HNS,Sulfur imide,3,9000242,0.0
+SOH,Sulfur Hydroxide,3,62803127,0.0
+HCS,Thioformyl radical,3,36058283,0.0
+HS2,Thiosulfeno radical,3,14541243,0.0
+SCN,thiocyanato radical,3,15941772,0.0
+FSN,Thiazyl fluoride,3,18820638,0.0
+NNS,Nitrogen sulfide,3,56400023,0.0
+SSO,Disulfur monoxide,3,20901217,0.0
+SNO,Nitrogen oxide sulfide,3,56971198,0.0
+NSO,sulfinyl amidogen,3,166412619,0.0
+Li2S,dilithium sulfide,3,12136582,0.0
+SF2,sulfur difluoride,3,13814250,0.0
+SiS2,Silicon disulfide,3,13759109,0.0
+FNS,Thionitrosyl fluoride,3,13537387,0.0
+S3,Sulfur trimer,3,12597034,0.0
+SO2,Sulfur dioxide,3,7446095,0.0
+Na2S,Sodium sulfide,3,1313822,0.0
+OCS,Carbonyl sulfide,3,463581,0.0
+CS2,Carbon disulfide,3,75150,0.0
+DOCl,Hypochlorous acid-d,3,13770224,0.0
+HSiCl,Chlorosilylene,3,13931970,0.0
+HOCl,hypochlorous acid,3,7790923,0.0
+HCCl,Chloromethylene,3,2108205,0.0
+ClCO,carbonyl monochloride,3,2602428,0.0
+CCl2,dichloromethylene,3,1605727,0.0
+CFCl,chlorofluoromethylene,3,1691889,0.0
+ClNO,Nitrosyl chloride,3,2696926,0.0
+ClCN,chlorocyanogen,3,506774,0.0
+BeCl2,Beryllium chloride,3,7787475,0.0
+MgCl2,Magnesium dichloride,3,7786303,0.0
+Cl2O,Dichlorine monoxide,3,7791211,0.0
+SCl2,Sulfur dichloride,3,10545990,0.0
+OClO,Chlorine dioxide,3,10049044,0.0
+SiCl2,Dichlorosilylene,3,13569329,0.0
+SFCl,Sulfur chloride fluoride,3,64422260,0.0
+ClSO,Sulfur chloride oxide,3,53169269,0.0
+ClOF,Chlorine hypofluorite,3,34240863,0.0
+ClS2,Sulfur chloride,3,39594917,0.0
+FClO,chlorosyl fluoride,3,22363684,0.0
+OPCl,Phosphorus oxychloride,3,21295501,0.0
+ClOO,chloroperoxy radical,3,17376099,0.0
+H2Ar,H2 Ar dimer,3,13939156,0.0
+KOH,Potassium hydroxide,3,1310583,0.0
+KCN,Potassium cyanide,3,151508,0.0
+CaH2,Calcium Hydride,3,7789788,0.0
+CaOH,Calcium monohydroxide,3,12177672,0.0
+CaCl2,Calcium Chloride,3,10043524,0.0
+CaF2,Calcium difluoride,3,7789755,0.0
+TiO2,Titanium dioxide,3,13463677,0.0
+CuF2,Copper difluoride,3,7789197,0.0
+CuCN,Copper cyanide,3,544923,0.0
+ZnH2,Zinc hydride,3,14018827,0.0
+ZnF2,Zinc difluoride,3,7783495,0.0
+ZnCN,Zinc monocyanide,3,73963981,0.0
+ZnNC,Zinc isocyanide,3,748101419,0.0
+ZnCl2,Zinc dichloride,3,7646857,0.0
+GeH2,germylene,3,24968556,0.0
+GeCl2,Germanium dichloride,3,10060114,0.0
+GeS2,Germanium disulfide,3,12025342,0.0
+GeF2,Germanium difluoride,3,13940631,0.0
+GeO2,Germanium dioxide,3,1310538,0.0
+AsH2,Arsenic dihydride,3,14644452,0.0
+AsO2,Aresenic dioxide,3,12255128,0.0
+H2Se,Hydrogen selenide,3,7783075,0.0
+SeCl2,Selenium Dichloride,3,14457706,0.0
+SeF2,Selenium difluoride,3,70421431,0.0
+OCSe,Carbonyl selenide,3,1603845,0.0
+SeO2,Selenium dioxide,3,7446084,0.0
+SCSe,Carbon sulfide selenide,3,5951199,0.0
+CSe2,Carbon diselenide,3,506809,0.0
+CHBr,bromomethylene,3,17141285,0.0
+HOBr,Hypobromous acid,3,13517118,0.0
+HSiBr,monobromosilylene,3,13569454,0.0
+BrNO,Nitrosyl bromide,3,13444876,0.0
+SBr2,Sulfur dibromide,3,14312200,0.0
+CaBr2,Calcium dibromide,3,7789415,0.0
+BeBr2,Beryllium bromide,3,7787464,0.0
+BrOCl,Bromine hypochlorite,3,9000328,0.0
+BrOBr,Bromine oxide,3,21308805,0.0
+OBrO,Bromine dioxide radical,3,21255834,0.0
+SeBr2,Selenium dibromide,3,22987457,0.0
+BrOO,Bromine dioxide,3,67177473,0.0
+BrCN,Cyanogen bromide,3,506683,0.0
+CBr2,dibromomethylene,3,4371771,0.0
+KrF2,Krypton difluoride,3,13773814,0.0
+H2Te,Hydrogen Telluride,3,7783097,0.0
+SCTe,Carbon sulfide Telluride,3,10340064,0.0
+TeO2,Tellurium Dioxide,3,7446073,0.0
+HOI,Hypoiodous acid,3,14332219,0.0
+INO,Nitrosyl iodide,3,58585947,0.0
+ICN,Cyanogen iodide,3,506785,0.0
+XeF2,Xenon difluoride,3,13709369,0.0
+BH3,boron trihydride,4,13283313,0.0
+HBBH,Diborane(2),4,56125747,0.0
+CH3,Methyl radical,4,2229074,0.0
+CCH2,vinylidene,4,2143693,0.0
+C2H2,Acetylene,4,74862,0.0
+C4,Carbon tetramer,4,12184804,0.0
+ND3,Ammonia-d3,4,13550497,0.0
+NH3,Ammonia,4,7664417,0.0
+LiNH2,lithium amide,4,7782890,0.0
+H2CN,Dihydrogen cyanide radical,4,9000286,0.0
+CNH2,Aminomethylidyne radical,4,9000317,0.0
+HCNH,methyleneazane,4,54980119,0.0
+H2NN,Isodiazene,4,28647383,0.0
+N2H2,(Z)-Diazene,4,15626423,0.0
+N2H2,(E)-diazene,4,15626434,0.0
+HBNH,Boranimine,4,15119978,0.0
+HCNN,diazomethyl radical,4,20813325,0.0
+HN3,hydrogen azide,4,7782798,0.0
+HCCN,cyanomethylene,4,2612626,0.0
+C2N2,Cyanogen,4,460195,0.0
+Li3N,trilithium nitride,4,26134623,0.0
+H2NO,nitroxide,4,13408292,0.0
+HOCH,hydroxycarbene,4,19710566,0.0
+H2OO,water oxide,4,171363090,0.0
+H2CO,Formaldehyde,4,50000,0.0
+H2O2,Hydrogen peroxide,4,7722841,0.0
+HOCO,Hydrocarboxyl radical,4,2564865,0.0
+HNCO,Isocyanic acid,4,75138,0.0
+HOCN,cyanic acid,4,420053,0.0
+HCNO,fulminic acid,4,506854,0.0
+HNNO,nitrosoazane,4,107190772,0.0
+HCCO,ketenyl radical,4,51095159,0.0
+HNO2,Nitrous acid,4,7782776,0.0
+HCOO,formate neutral radical,4,9000392,0.0
+CO3,Carbon trioxide,4,12144057,0.0
+NO3,Nitrogen trioxide,4,12033497,0.0
+Li2O2,dilithium dioxide,4,12031800,0.0
+C3O,Tricarbon monoxide,4,11127176,0.0
+B2O2,Diboron dioxide,4,13766284,0.0
+ONNO,NO dimer,4,57932566,0.0
+H2F2,Hydrogen fluoride dimer,4,30664121,0.0
+NH2F,monofluoroamine,4,15861059,0.0
+CH2F,fluoromethyl radical,4,3744294,0.0
+HCCF,Fluoroacetylene,4,2713099,0.0
+CHF2,difluoromethyl radical,4,2670135,0.0
+HFCO,formyl fluoride,4,1493023,0.0
+BHF2,Difluoroborane,4,13709836,0.0
+NHF2,difluoramine,4,10405273,0.0
+FNO2,Nitryl fluoride,4,10022501,0.0
+FOOF,Perfluoroperoxide,4,7783440,0.0
+NF3,Nitrogen trifluoride,4,7783542,0.0
+N2F2,"Dinitrogen difluoride, (E)-",4,13776620,0.0
+N2F2,(Z)-Difluorodiazene,4,13812436,0.0
+Li2F2,Lithium fluoride dimer,4,12265826,0.0
+FONO,Nitrosyl hypofluorite,4,96607237,0.0
+CF3,Trifluoromethyl radical,4,2264213,0.0
+C2F2,difluoroacetylene,4,689996,0.0
+BF3,"Borane, trifluoro-",4,7637072,0.0
+CF2O,Carbonic difluoride,4,353504,0.0
+Na2O2,disodium dioxide,4,1313606,0.0
+Na2F2,Sodium Fluoride Dimer,4,12285642,0.0
+AlH3,aluminum trihydride,4,7784216,0.0
+AlF3,Aluminum trifluoride,4,7784181,0.0
+SiH3,Silyl radical,4,13765441,0.0
+Si2H2,disilyne,4,36835582,0.0
+SiF3,Silicon trifluoride radical,4,14835144,0.0
+PH3,Phosphine,4,7803512,0.0
+PF3,Phosphorus trifluoride,4,7783553,0.0
+P4,Phosphorus tetramer,4,12185103,0.0
+HOSH,hydrogen thioperoxide,4,62607447,0.0
+H2S2,Disulfane,4,13465071,0.0
+H2CS,Thioformaldehyde,4,865361,0.0
+HNCS,Isothiocyanic acid,4,3129906,0.0
+HSCN,thiocyanic acid,4,463569,0.0
+S4,Sulfur tetramer,4,19269853,0.0
+S2F2,Thio-thionyl fluoride,4,16860994,0.0
+SF3,Sulfur trifluoride,4,30937383,0.0
+S2N2,Disulfur dinitride,4,25474924,0.0
+FSSF,Difluorodisulfane,4,13709358,0.0
+F2SO,Thionyl Fluoride,4,7783428,0.0
+SO3,Sulfur trioxide,4,7446119,0.0
+NH2Cl,chloramine,4,10599903,0.0
+NH2Cl,Chloramide,4,110599903,0.0
+CHFCl,Chlorofluoromethyl radical,4,33272718,0.0
+BHCl2,"Borane, dichloro-",4,10325390,0.0
+HOClO,Chlorous acid,4,13898470,0.0
+NHCl2,dichloroamine,4,3400097,0.0
+CHCl2,dichloromethyl radical,4,3474122,0.0
+COHCl,Formyl chloride,4,2565302,0.0
+HCCCl,Chloroacetylene,4,593635,0.0
+Cl2CS,Thiophosgene,4,463718,0.0
+COFCl,Carbonic chloride fluoride,4,353491,0.0
+CCl2O,Phosgene,4,75445,0.0
+CF2Cl,difluorochloromethyl radical,4,1691890,0.0
+CFCl2,dichlorofluoromethyl radical,4,1691903,0.0
+CCl3,Trichloromethyl radical,4,3170807,0.0
+AlCl3,Aluminum trichloride,4,7446700,0.0
+C2Cl2,dichloroacetylene,4,7572294,0.0
+SOCl2,thionyl chloride,4,7719097,0.0
+PCl3,Phosphorus trichloride,4,7719122,0.0
+ClO3,Chlorine trioxide,4,13932100,0.0
+AlF2Cl,Aluminum chloride difluoride,4,13814658,0.0
+ClO2F,Chloryl fluoride,4,13637837,0.0
+AlFCl2,Aluminum dichloride fluoride,4,13497966,0.0
+ClNO2,Nitryl chloride,4,13444901,0.0
+ClOOCl,Dichlorine dioxide,4,12292238,0.0
+Na2Cl2,Disodium dichloride,4,12258989,0.0
+BCl3,"Borane, trichloro-",4,10294345,0.0
+ClSSCl,Disulfur dichloride,4,10025679,0.0
+NCl3,nitrogen trichloride,4,10025851,0.0
+ClF3,Chlorine trifluoride,4,7790912,0.0
+BClF2,Chlorodifluoroborane,4,14720300,0.0
+SiCl3,trichlorosilyl radical,4,19165345,0.0
+ClONO,chlorine nitrite,4,65283989,0.0
+SSCl2,Thiothionyl chloride,4,60646380,0.0
+K2O2,dipotassium dioxide,4,17014710,0.0
+ScH3,Scandium trihydride,4,43238079,0.0
+ScF3,Scandium trifluoride,4,13709472,0.0
+ZnCH2,Zinc methylene,4,115410770,0.0
+GaH3,Gallium trihydride,4,13572935,0.0
+GaCl3,Gallium trichloride,4,13450903,0.0
+GaF3,Gallium trifluoride,4,7783519,0.0
+GeH3,Germyl radical,4,13765452,0.0
+AsH3,Arsine,4,7784421,0.0
+AsCl3,Arsenous trichloride,4,7784341,0.0
+AsF3,Arsenic trifluoride,4,7784352,0.0
+As4,Arsenic tetramer,4,12187085,0.0
+H2Se2,hydrogen diselenide,4,24765455,0.0
+H2CSe,Selenoformaldehyde,4,6596505,0.0
+SeOCl2,selenium oxychloride,4,7791233,0.0
+SeO3,selenium trioxide,4,13768860,0.0
+CH2Br,bromomethyl radical,4,16519974,0.0
+CH2Cl,chloromethyl radical,4,6806866,0.0
+COHBr,Formyl bromide,4,7726116,0.0
+HCCBr,bromoacetylene,4,593613,0.0
+CHBr2,dibromomethyl radical,4,14362131,0.0
+NBr3,Nitrogen Tribromide,4,15162900,0.0
+BrONO,Bromine nitrite,4,96607022,0.0
+PBr3,Phosphorus tribromide,4,7789608,0.0
+BrF3,Bromine trifluoride,4,7787715,0.0
+AsBr3,Arsenic tribromide,4,7784330,0.0
+BBr3,Boron tribromide,4,10294334,0.0
+AlBr3,Aluminum Bromide,4,7727153,0.0
+CBr3,tribromomethyl radical,4,4471185,0.0
+COBr2,Carbonic dibromide,4,593953,0.0
+SbH3,Stibine,4,7803523,0.0
+SbF3,Antimony Trifluoride,4,7783564,0.0
+SbCl3,Antimony Trichloride,4,10025919,0.0
+TeO3,Tellurium trioxide,4,13451188,0.0
+NI3,Nitrogen triiodide,4,13444854,0.0
+PI3,Phosphorus triiodide,4,13455011,0.0
+IF3,iodone trifluoride,4,22520963,0.0
+BH4,borohydride,5,16971292,0.0
+CH3D,methane-d,5,676493,0.0
+CH2D2,methane-d2,5,676551,0.0
+CHD3,methane-d3,5,676802,0.0
+CD4,methane-d4,5,558203,0.0
+CH4,Methane,5,74828,0.0
+CH3Li,methyl lithium,5,917544,0.0
+C2H3,vinyl,5,2669898,0.0
+CH2BH,methyleneborane,5,56125758,0.0
+NH4,Ammonium radical,5,14798039,0.0
+CHNH2,aminomethylene,5,35430172,0.0
+CH2NH,Methanimine,5,2053294,0.0
+NH2CN,cyanamide,5,420042,0.0
+CH2NN,diazomethane,5,334883,0.0
+HNCNH,diiminomethane,5,151519,0.0
+CH2N2,diazirine,5,157222,0.0
+HCCCN,Cyanoacetylene,5,1070719,0.0
+CH3O,Methoxy radical,5,2143682,0.0
+CH2OH,Hydroxymethyl radical,5,2597435,0.0
+NH3O,Ammonia Oxide,5,38544488,0.0
+NH2OH,hydroxylamine,5,7803498,0.0
+Be(OH)2,Beryllium hydroxide,5,13327327,0.0
+NH2NO,Nitrosamide,5,35576911,0.0
+H2COO,Dioxymethyl radical,5,56077920,0.0
+HCCOH,ethynol,5,32038792,0.0
+H2O3,Hydrogen trioxide,5,14699991,0.0
+CH2O2,Dioxirane,5,157266,0.0
+C2H2O,Oxirene,5,157186,0.0
+CH2CO,Ketene,5,463514,0.0
+HCOOH,Formic acid,5,64186,0.0
+HNO3,Nitric acid,5,7697372,0.0
+B2O3,diboron trioxide,5,1303862,0.0
+C3O2,Carbon suboxide,5,504643,0.0
+BeCO3,Beryllium Carbonate,5,744998978,0.0
+ONONO,Nitrosyl nitrite,5,122413358,0.0
+N2O3,Dinitrogen trioxide,5,10544737,0.0
+CD3F,methylfluoride-d3,5,558214,0.0
+CH3F,Methyl fluoride,5,593533,0.0
+CH2F2,"Methane, difluoro-",5,75105,0.0
+CHF3,"Methane, trifluoro-",5,75467,0.0
+FNO3,Fluorine nitrate,5,7789266,0.0
+F3NO,Nitrogen trifluoride oxide,5,13847659,0.0
+CF4,Carbon tetrafluoride,5,75730,0.0
+Mg(OH)2,Magnesium dihydroxide,5,1309428,0.0
+MgCO3,Magnesium Carbonate,5,695808812,0.0
+SiH2D2,silane-d2,5,13780319,0.0
+SiH4,Silane,5,7803625,0.0
+SiH3F,monofluorosilane,5,13537332,0.0
+SiH2F2,difluorosilane,5,13824367,0.0
+SiHF3,trifluorosilane,5,13465719,0.0
+SiF4,Silicon tetrafluoride,5,7783611,0.0
+PH4,Phosphoranyl radical,5,16749136,0.0
+H2POH,Phosphinous acid,5,25756870,0.0
+CH2PH,Phosphaethene,5,61183537,0.0
+H3PO,Phosphine oxide,5,13840409,0.0
+F3PO,Phosphoryl fluoride,5,13478201,0.0
+NH2SH,Thiohydroxylamine,5,14097008,0.0
+NH3S,sulfidoazane,5,98402358,0.0
+CH3S,thiomethoxy,5,7175759,0.0
+CH2CS,Thioketene,5,18282774,0.0
+HSSSH,trisulfane,5,13845233,0.0
+HSO3,Hydroxysulfonyl radical,5,104267223,0.0
+SF4,Sulfur tetrafluoride,5,7783600,0.0
+SO2F2,Sulfuryl fluoride,5,2699798,0.0
+CD3Cl,methyl chloride d3,5,1111893,0.0
+CH3Cl,Methyl chloride,5,74873,0.0
+SiH3Cl,chlorosilane,5,13465786,0.0
+CH2Cl2,Methylene chloride,5,75092,0.0
+CH2FCl,fluorochloromethane,5,593704,0.0
+SiH2Cl2,dichlorosilane,5,4109960,0.0
+CDCl3,trichloromethane-d,5,865496,0.0
+CHF2Cl,difluorochloromethane,5,75456,0.0
+CHFCl2,fluorodichloromethane,5,75434,0.0
+CHCl3,Chloroform,5,67663,0.0
+HClO3,Chloric Acid,5,7790934,0.0
+SiHCl3,Trichlorosilane,5,10025782,0.0
+Cl3PO,Phosphoryl chloride,5,10025873,0.0
+SiCl4,"Silane, tetrachloro-",5,10026047,0.0
+SO2Cl2,Sulfuryl chloride,5,7791255,0.0
+SCl4,Sulfur tetrachloride,5,13451086,0.0
+ClONO2,Chlorine nitrate,5,14545723,0.0
+ClOF3,Chlorine trifluoride oxide,5,30708806,0.0
+CCl4,Carbon tetrachloride,5,56235,0.0
+CFCl3,Trichloromonofluoromethane,5,75694,0.0
+CF2Cl2,difluorodichloromethane,5,75718,0.0
+CF3Cl,"Methane, chlorotrifluoro-",5,75729,0.0
+ClFO3,Perchloryl fluoride,5,7616946,0.0
+CaCO3,Calcium Carbonate,5,471341,0.0
+TiCl4,Titanium tetrachloride,5,7550450,0.0
+TiF4,Titanium tetrafluoride,5,7783633,0.0
+CuCH3,monomethyl copper,5,9000231,0.0
+ZnCH3,Zinc monomethyl,5,42217981,0.0
+GeH4,Germane,5,7782652,0.0
+GeH3Cl,monochlorogermane,5,13637655,0.0
+GeH3F,monofluorogermane,5,13537309,0.0
+GeF4,Germanium tetrafluoride,5,7783586,0.0
+GeCl4,Germanium Tetrachloride,5,10038989,0.0
+SeF4,Selenium tetrafluoride,5,13465662,0.0
+SiH3Br,bromosilane,5,13465731,0.0
+CH3Br,methyl bromide,5,74839,0.0
+CH2Br2,dibromomethane,5,74953,0.0
+CH2BrCl,"Methane, bromochloro-",5,74975,0.0
+CH2BrF,"Methane, bromofluoro-",5,373524,0.0
+CHClBr2,"Methane, dibromochloro-",5,124481,0.0
+CHBr3,bromoform,5,75252,0.0
+CHBrCl2,"Methane, bromodichloro-",5,75274,0.0
+CHFClBr,fluorochlorobromomethane,5,593986,0.0
+CHBrF2,"Methane, bromodifluoro-",5,1511622,0.0
+CHBr2F,dibromofluoromethane,5,1868537,0.0
+CBr3Cl,tribromochloromethane,5,594150,0.0
+CBr2Cl2,dibromodichloromethane,5,594183,0.0
+CBr2F2,"Methane, dibromodifluoro-",5,75616,0.0
+CBrCl3,"Methane, bromotrichloro-",5,75627,0.0
+CF3Br,Bromotrifluoromethane,5,75638,0.0
+CFBr3,fluorotribromomethane,5,353548,0.0
+CBr2ClF,dibromochlorofluoromethane,5,353559,0.0
+CBrCl2F,bromodichlorofluoromethane,5,353582,0.0
+CBrClF2,"Methane, bromochlorodifluoro-",5,353593,0.0
+CBr4,Carbon tetrabromide,5,558134,0.0
+GeBr4,Germanium tetrabromide,5,13450925,0.0
+SiBr4,Silicon tetrabromide,5,7789664,0.0
+BrONO2,Bromine nitrate,5,40423141,0.0
+SnH4,Stannane,5,2406522,0.0
+CH3I,methyl iodide,5,74884,0.0
+SiH3I,Silyl Iodide,5,13598420,0.0
+CH2I2,Diiodomethane,5,75116,0.0
+CH2ClI,chloroiodomethane,5,593715,0.0
+CH2BrI,bromoiodomethane,5,557686,0.0
+CH2FI,fluoroiodomethane,5,373535,0.0
+CHI3,Iodoform,5,75478,0.0
+CHFClI,fluorochloroiodomethane,5,1512283,0.0
+CHF2I,difluoroiodomethane,5,1493034,0.0
+CHCl2I,dichloroiodomethane,5,594047,0.0
+CCl3I,trichloroiodomethane,5,594229,0.0
+CCl2I2,dichlorodiiodomethane,5,594230,0.0
+CFClBrI,fluorochlorobromoiodomethane,5,753651,0.0
+CF2I2,difluorodiiodomethane,5,1184765,0.0
+CF3I,trifluoroiodomethane,5,2314978,0.0
+CI4,tetraiodomethane,5,507255,0.0
+SiI4,silicon tetraiodide,5,13465844,0.0
+CBr3I,tribromoiododmethane,5,14349805,0.0
+XeF4,Xenon tetrafluoride,5,13709610,0.0
+HBHHBH,Diborane(4) C2V,6,9000348,0.0
+LiBH4,Lithium borohydride,6,16949158,0.0
+B2H4,Diborane(4) D2d,6,18099451,0.0
+C2H4,Ethylene,6,74851,0.0
+CH3CH,methylmethylene,6,4218502,0.0
+C3H3,Propargyl radical,6,2932787,0.0
+C3H3,cyclopropenyl radical,6,9000220,0.0
+C4H2,Diacetylene,6,460128,0.0
+N2H4,Hydrazine,6,302012,0.0
+BH2NH2,Boranamine,6,14720355,0.0
+H2CCNH,Ethenimine,6,17619226,0.0
+HCCNH2,Ethynamine,6,52324046,0.0
+H2CNCH,methyleneaminomethylene,6,88333022,0.0
+CHNCH2,2H-Azirine,6,157164,0.0
+CHNHCH,1H-Azirine,6,157175,0.0
+CH3NC,methyl isocyanide,6,593759,0.0
+CH3CN,Acetonitrile,6,75058,0.0
+H2CNCN,"cyanamide, methylene",6,43730263,0.0
+HNCCNH,Ethenediimine,6,20815456,0.0
+C4N2,2-Butynedinitrile,6,1071983,0.0
+CH3OH,Methyl alcohol,6,67561,0.0
+H2OH2O,water dimer,6,25655838,0.0
+CH2BOH,hydroxy(methylene)borane,6,422506716,0.0
+CH3BO,"Borane, methyloxo-",6,79723210,0.0
+HOCHNH,hydroxymethylimine,6,9000777,0.0
+CH2OOH,CH2OOH radical,6,9000344,0.0
+BH3CO,Borane carbonyl,6,13205442,0.0
+CHONH2,formamide,6,75127,0.0
+CH2NOH,formaldoxime,6,75172,0.0
+CH3NO,nitrosomethane,6,865407,0.0
+CH3OO,methylperoxy radical,6,2143580,0.0
+CH3CO,Acetyl radical,6,3170692,0.0
+CH2CHO,Vinyloxy radical,6,4400015,0.0
+CNOH3,"1,2-oxaziridine",6,6827265,0.0
+C2H2CO,cyclopropenone,6,2961800,0.0
+HCCCHO,2-propynal,6,624679,0.0
+C2H2O2,Ethanedial,6,107222,0.0
+H2CO3,Carbonic acid,6,463796,0.0
+NH2NO2,nitramide,6,7782947,0.0
+C3H2O,Propadienal,6,61244937,0.0
+HOONO2,peroxy nitric acid,6,26404660,0.0
+N2O4,Dinitrogen tetroxide,6,10544726,0.0
+Li2CO3,Lithium Carbonate,6,554132,0.0
+CH2FOH,fluoromethanol,6,420031,0.0
+CH2CHF,"Ethene, fluoro-",6,75025,0.0
+CH2CF2,"Ethene, 1,1-difluoro-",6,75387,0.0
+C2H2F2,"Ethene, 1,2-difluoro-, (Z)-",6,1630779,0.0
+C2H2F2,"Ethene, 1,2-difluoro-, (E)-",6,1630780,0.0
+CF3OH,trifluoromethanol,6,1493114,0.0
+C2HF3,Trifluoroethylene,6,359115,0.0
+CF3OF,Trifluoromethylhypofluorite,6,373911,0.0
+CF3CN,"Acetonitrile, trifluoro-",6,353855,0.0
+C2F4,Tetrafluoroethylene,6,116143,0.0
+B2F4,Diboron tetrafluoride,6,13965736,0.0
+C4F2,difluorobutadiyne,6,64788234,0.0
+NaOCH3,Sodium methoxide,6,124414,0.0
+Na2CO3,Sodium Carbonate,6,9000444,0.0
+CH2SiH2,silaethylene,6,51067846,0.0
+Si2H4,Disilene,6,15435775,0.0
+SiH3OH,silanol,6,14475388,0.0
+P2H4,Diphosphine,6,13445506,0.0
+N3P3,"1,3,5,2,4,6-Triazatriphosphorine",6,291372,0.0
+PF5,Phosphorus pentafluoride,6,7647190,0.0
+CH3SH,Methanethiol,6,74931,0.0
+CHSNH2,thioformamide,6,115082,0.0
+NHCHSH,Methanimidothioic acid,6,60100109,0.0
+H2SO3,Sulfurous acid,6,7782992,0.0
+H2CS3,thiocarbonic acid,6,594081,0.0
+HSO3F,Fluorosulfonic acid,6,7789211,0.0
+SF5,Sulfur pentafluoride,6,10546017,0.0
+MgSO4,Magnesium Sulfate,6,7487889,0.0
+NH4Cl,Ammonium chloride,6,12125029,0.0
+CH3OCl,methyl hypochlorite,6,593782,0.0
+C2H3Cl,"Ethene, chloro-",6,75014,0.0
+CH2CCl2,"Ethene, 1,1-dichloro-",6,75354,0.0
+CHClCHCl,"Ethene, 1,2-dichloro-, (Z)-",6,156592,0.0
+CHClCHCl,"Ethene, 1,2-dichloro-, (E)-",6,156605,0.0
+C2H2ClF,1-chloro-1-fluoroethylene,6,2317911,0.0
+CHFCHClz,(Z)-1-Chloro-2-fluoroethene,6,2268317,0.0
+CHFCHCl,(E)-1-chloro-2-fluoroethene,6,2268328,0.0
+HClO4,perchloric acid,6,7601903,0.0
+CHClCCl2,Trichloroethylene,6,79016,0.0
+CF2CCl2,difluorodichloroethylene,6,79356,0.0
+ClCOClCO,Oxalyl chloride,6,79378,0.0
+C2ClF3,"Ethene, chlorotrifluoro-",6,79389,0.0
+C2Cl4,Tetrachloroethylene,6,127184,0.0
+CFClCClF,"trans-1,2-dichloro-1,2-difluoroethylene",6,381715,0.0
+C2FCl3,fluorotrichloroethene,6,359295,0.0
+CFClCFCl,"cis-1,2-dichloro-1,2-difluoroethylene",6,311819,0.0
+PCl5,Phosphorus pentachloride,6,10026138,0.0
+B2Cl4,Diboron tetrachloride,6,13701672,0.0
+ClF5,chlorinepentafluoride,6,13637633,0.0
+SOF4,Sulfur tetrafluoride oxide,6,13709541,0.0
+AsF5,Arsenic pentafluoride,6,7784363,0.0
+CH3SeH,Methane selenol,6,204,0.0
+CH3MgBr,Methyl Magnesium Bromide,6,75161,0.0
+C2H3Br,vinyl bromide,6,593602,0.0
+CHBrCHBr,"Ethene, 1,2-dibromo-, (Z)-",6,590114,0.0
+CHBrCHBr,"Ethene, 1,2-dibromo-, (E)-",6,590125,0.0
+C2H2Br2,"1,1-dibromoethene",6,593920,0.0
+CHBrCF2,"1-Bromo-2,2-difluoroethylene",6,359080,0.0
+C2Br4,tetrabromoethene,6,79287,0.0
+BrF5,bromine pentafluoride,6,7789302,0.0
+SbCl5,Antimony pentachloride,6,7647189,0.0
+C2H3I,Vinyl iodide,6,593668,0.0
+IF5,pentafluoroiodine,6,7783666,0.0
+CH3BH2,methylborane,7,12538964,0.0
+C2H5,Ethyl radical,7,2025561,0.0
+C3H4,cyclopropene,7,2781853,0.0
+CH2CCH2,allene,7,463490,0.0
+CH3CCH,propyne,7,74997,0.0
+CH3NH2,methyl amine,7,74895,0.0
+CH3CHN,methylmethaniminyl radical,7,28445332,0.0
+CH2CHNH,vinylazine,7,50614034,0.0
+NHCHNH2,aminomethanimine,7,10000,0.0
+C3H3N,acrylonitrile,7,107131,0.0
+CH3N3,methyl azide,7,624908,0.0
+C3H2N2,Malononitrile,7,109773,0.0
+CH2N4,1H-Tetrazole,7,288948,0.0
+H2ONH3,Water Ammonia Dimer,7,33,0.0
+H2OH2CO,water formaldehyde dimer,7,55,0.0
+CH3CHO,Acetaldehyde,7,75070,0.0
+C2H4O,Ethylene oxide,7,75218,0.0
+CH2(OH)2,methanediol,7,463570,0.0
+CH2CHOH,ethenol,7,557755,0.0
+CH3OOH,Methyl peroxide,7,3031730,0.0
+CH3ONO,Methyl nitrite,7,624919,0.0
+CH3NCO,methylisocyante,7,624839,0.0
+NH2COOH,Carbamic acid,7,463774,0.0
+CH3NO2,"Methane, nitro-",7,75525,0.0
+HOCH2CN,cyanomethanol,7,107164,0.0
+C2H3NO,Nitrosoethylene,7,54680523,0.0
+H3BO3,Boric acid,7,10043353,0.0
+C3H2O2,Propiolic acid,7,471250,0.0
+C2H2N2O,Furazan,7,288379,0.0
+CHOCOOH,oxo acetic acid,7,298124,0.0
+CHOOCHO,diformyl ether,7,1588674,0.0
+N2O5,Dinitrogen pentoxide,7,10102031,0.0
+CH2FCHO,Fluoroacetaldehyde,7,1544463,0.0
+CH3COF,Acetyl fluoride,7,557993,0.0
+CF3CHO,trifluoroacetaldehyde,7,75901,0.0
+F2CCCF2,tetrafluoroallene,7,461687,0.0
+CF3COF,trifluoroacetyl fluoride,7,354347,0.0
+H3AlO3,Aluminum hydroxide,7,21645512,0.0
+SiH3NH2,"Silane, amino",7,13598782,0.0
+CH3PH2,Methyl phosphine,7,593544,0.0
+CF3PH2,"phosphine, (trifluoromethyl)-",7,420520,0.0
+PF3CH2,"phosphorane, trifluoromethylene-",7,110638169,0.0
+PF6,Hexafluorophosphate neutral,7,16919189,0.0
+C2H4S,Thiirane,7,420122,0.0
+CH2CHSH,Ethenethiol,7,917599,0.0
+HSCH2SH,Methanedithiol,7,6725640,0.0
+CH3SSH,Hydrogen methyl disulfide,7,6251269,0.0
+CH3CHS,Thioacetaldehyde,7,6851930,0.0
+H2SO4,Sulfuric acid,7,7664939,0.0
+C2H2N2S,"1,3,4-Thiadiazole",7,289065,0.0
+SF6,Sulfur Hexafluoride,7,2551624,0.0
+CH2CH2Cl,2-chloroethyl radical,7,16519996,0.0
+CHClCH3,1-chloroethyl radical,7,16520131,0.0
+CH2ClCHO,chloroacetaldehyde,7,107200,0.0
+CH3COCl,Acetyl Chloride,7,75365,0.0
+CHCl2CHO,dichloroacetaldehyde,7,79027,0.0
+CH2ClCCCl,"1,3-dichloropropyne",7,927753,0.0
+CHCl2CCH,"3,3-dichloropropyne",7,25523142,0.0
+CHClCCHCl,"1,3-dichloroallene",7,83682320,0.0
+CCl3CHO,trichloroacetaldehyde,7,75876,0.0
+CF3COCl,trifluoroacetyl chloride,7,354325,0.0
+SF5Cl,sulfur chloropentafluoride,7,13780579,0.0
+H2SeO4,Selenic acid,7,7783086,0.0
+SeF6,Selenium hexafluoride,7,7783791,0.0
+B2H6,Diborane,8,19287457,0.0
+C2H6,Ethane,8,74840,0.0
+C3H5,Allyl radical,8,1981802,0.0
+CH3CHCH,1-propenyl radical,8,6067681,0.0
+H2CCCCH2,Butatriene,8,2873509,0.0
+C4H4,cyclobutadiene,8,1120532,0.0
+C2H3CCH,1-Buten-3-yne,8,689974,0.0
+C4H4,Tetrahedrane,8,157391,0.0
+C6H2,hexatriyne,8,3161997,0.0
+NH3NH3,Ammonia Dimer,8,22,0.0
+CH3NH3,methyl ammonium radical,8,17000009,0.0
+BH3NH3,borane ammonia,8,13774817,0.0
+NH2BHNH2,diaminoborane,8,18447535,0.0
+CH3CHNH,ethanimine,8,20729413,0.0
+C2H5N,Aziridine,8,151564,0.0
+CH2CHNH2,aminoethene,8,593679,0.0
+CH2NCH3,N-methylmethanimine,8,1761677,0.0
+NH2CCNH2,Diaminoacetylene,8,4403547,0.0
+NH2CH2CN,Aminoacetonitrile,8,540614,0.0
+C3H3N2,imidazolyl radical,8,36954037,0.0
+C2H3N3,"1H-1,2,4-Triazole",8,288880,0.0
+C2H2N4,sym-tetrazine,8,290960,0.0
+C4H2N2,Fumaronitrile,8,764421,0.0
+CH(CN)3,tricyanomethane,8,454502,0.0
+HN=C=C(CN)2,Dicyanoketenimine,8,50655522,0.0
+CH3OCH2,methoxymethyl radical,8,16520040,0.0
+CH3CHOH,1-hydroxy-ethyl radical,8,2348461,0.0
+CH3CH2O,Ethoxy radical,8,2154509,0.0
+NH2CH2OH,aminomethanol,8,3088275,0.0
+CH2CH2OH,2-hydroxy ethyl radical,8,4422542,0.0
+C3H4O,Cyclopropanone,8,5009278,0.0
+C3H4O,Methylketene,8,6004440,0.0
+CHOCH2OH,hydroxy acetaldehyde,8,141468,0.0
+NH2CONH2,Urea,8,57136,0.0
+CH3COOH,Acetic acid,8,64197,0.0
+HCOOHH2O,Formic acid water dimer,8,99,0.0
+H2OHCOOH,Water formic acid dimer 1,8,102,0.0
+H2OHCOOH,Water formic acid dimer 2,8,113,0.0
+C3H4O,2-Propyn-1-ol,8,107197,0.0
+CH3OCHO,methyl formate,8,107313,0.0
+CH2CHCHO,Acrolein,8,107028,0.0
+C3H4O,allenol,8,9000071,0.0
+HOCH2OOH,hydroxy methyl peroxide,8,15932895,0.0
+C2H4O2,"1,3-dioxetane",8,61233190,0.0
+CH3C(O)OO,acetyl peroxy radical,8,36709101,0.0
+C3H3NO,Oxazole,8,288426,0.0
+C3H3NO,Isoxazole,8,288142,0.0
+CH3NO3,Methyl nitrate,8,598583,0.0
+C3H2O3,vinylene carbonate,8,872366,0.0
+C2H2O4,Oxalic Acid,8,144627,0.0
+C2H5F,fluoroethane,8,353366,0.0
+CH3CHF2,"Ethane, 1,1-difluoro-",8,75376,0.0
+C2H4F2,"1,2-difluoroethane",8,624726,0.0
+CHF2CH2F,"Ethane, 1,1,2-trifluoro",8,430660,0.0
+CH3CF3,"Ethane, 1,1,1-trifluoro-",8,420462,0.0
+BF3NH3,Boron trifluoride monoammoniate,8,137019869,0.0
+NH3BF3,Amminetrifluoroboron,8,13709869,0.0
+CHF2CHF2,"1,1,2,2-tetrafluoroethane",8,359353,0.0
+CF3COOH,trifluoroacetic acid,8,76051,0.0
+CF3CH2F,"1,1,1,2-tetrafluoroethane",8,811972,0.0
+CF3CHF2,pentafluoroethane,8,354336,0.0
+C2F6,hexafluoroethane,8,76164,0.0
+C4F4,tetrafluorcyclobutadiene,8,57070334,0.0
+Al2H6,dialane,8,12004307,0.0
+CH3SiH3,methyl silane,8,992949,0.0
+Si2H6,disilane,8,1590870,0.0
+CH3SiFH2,fluoromethylsilane,8,753446,0.0
+SiH3CCl3,(trichloromethyl)silane,8,120434277,0.0
+BH3PH3,borane phosphine,8,19121563,0.0
+H3PO4,Phosphoric Acid,8,7664382,0.0
+NH2CSNH2,Thiourea,8,62566,0.0
+C3H3NS,Thiazole,8,288471,0.0
+S4N4,Tetrasulfur tetranitride,8,28950347,0.0
+S8,Octasulfur,8,10544500,0.0
+CH3CH2Cl,Ethyl chloride,8,75003,0.0
+CH3CHCl2,"Ethane, 1,1-dichloro-",8,75343,0.0
+CH2ClCH2Cl,"Ethane, 1,2-dichloro-",8,107062,0.0
+CH2FCH2Cl,"Ethane, 1-chloro-2-fluoro-",8,762505,0.0
+CH3CHFCl,"Ethane, 1-chloro-1-fluoro-",8,1615754,0.0
+CH3CFCl2,"1,1-Dichloro-1-fluoroethane",8,1717006,0.0
+SiCl3CH3,methyltrichlorosilane,8,75796,0.0
+CH2ClCHCl2,"1,1,2-trichloroethane",8,79005,0.0
+CH3CF2Cl,"1-Chloro-1,1-Difluoroethane",8,75683,0.0
+CH3CCl3,"Ethane, 1,1,1-trichloro-",8,71556,0.0
+NH3BCl3,Amminetrichloroboron,8,49860186,0.0
+CHFClCHFCl,"1,2-dichloro-1,2-difluoroethane RR",8,33489304,0.0
+CHFClCHClF,"ethane, 1,2-dichloro-1,2-difluoro-",8,33579372,0.0
+CHCl2CHCl2,"Ethane, 1,1,2,2-tetrachloro-",8,79345,0.0
+CF3CH2Cl,"2,2,2-Trifluoroethyl chloride",8,75887,0.0
+CHCl2CHF2,"1,1-dichloro-2,2-difluoroethane",8,471432,0.0
+CH2ClCCl3,"1,1,1,2-tetrachloroethane",8,630206,0.0
+CF3CHFCl,"1,1,1,2-tetrafluorochloroethane",8,2837890,0.0
+CF3CHCl2,"1,1-Dichloro-2,2,2-trifluoroethane",8,306832,0.0
+CHCl2CClF2,"Ethane, 1,2,2-trichloro-1,1-difluoro-",8,354212,0.0
+CCl3CHCl2,pentachloroethane,8,76017,0.0
+CF2ClCFCl2,"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-",8,76131,0.0
+CF2ClCF2Cl,"1,2-Dichloro-1,1,2,2-tetrafluoroethane",8,76142,0.0
+CF3CF2Cl,pentafluorochloroethane,8,76153,0.0
+C2Cl6,hexachloroethane,8,67721,0.0
+CF3CCl3,"1,1,1-trifluoro-2,2,2-trichloroethane",8,354585,0.0
+CF3CFCl2,"1,1-Dichlorotetrafluoroethane",8,374072,0.0
+Al2Cl6,"Aluminum, di-μ-chlorotetrachlorodi-",8,13845120,0.0
+Ga2H6,digallane,8,12140588,0.0
+GeH3CH3,methyl germane,8,1449656,0.0
+C2H5Br,Ethyl bromide,8,74964,0.0
+CH2BrCH2Cl,1-bromo-2-chloroethane,8,107040,0.0
+CH2BrCH2Br,"Ethane, 1,2-dibromo-",8,106934,0.0
+CH3CBr3,"1,1,1-tribromoethane",8,2311140,0.0
+CH2BrCBr3,"1,1,1,2-tetrabromo ethane",8,630160,0.0
+C2H5I,Ethyl iodide,8,75036,0.0
+IF7,Iodine heptafluoride,8,16921963,0.0
+C3H6,Cyclopropane,9,75194,0.0
+CH2CHCH3,Propene,9,115071,0.0
+C5H4,pentatetraene,9,21986038,0.0
+NH2CH2NH2,diaminomethane,9,2372885,0.0
+CH5N3,Guanidine,9,113008,0.0
+C2H5CN,ethyl cyanide,9,107120,0.0
+C3H4N2,1H-Imidazole,9,288324,0.0
+C3H4N2,1H-Pyrazole,9,288131,0.0
+C3H4N2,4H-Imidazole,9,9000162,0.0
+C3H4N2,2H-Imidazole,9,9000173,0.0
+C4H4N,pyrrolide radical,9,23303095,0.0
+C3H3N3,"1,3,5-Triazine",9,290879,0.0
+CH3N5,5-Aminotetrazole,9,4418615,0.0
+C(CN)4,tetracyanomethane,9,24331097,0.0
+CH3OCH3,Dimethyl ether,9,115106,0.0
+CH3CH2OH,Ethanol,9,64175,0.0
+H2OCH3OH,water methanol dimer,9,77,0.0
+CH3OHH2O,methanol water dimer,9,88,0.0
+CH3CONH2,Acetamide,9,60355,0.0
+CH3CHNOH,Acetaldoxime,9,107299,0.0
+HCONHCH3,N-methylformamide,9,123397,0.0
+CH3COCH2,Acetonyl radical,9,3122074,0.0
+C2H5OO,ethylperoxy radical,9,3170614,0.0
+CH3C(OH)=NH,Ethaninidic acid,9,27595751,0.0
+CH2C(OH)NH2,1-amino vinyl alchohol,9,99766582,0.0
+HOCHCCHOH,allenediol,9,9000400,0.0
+C3H4O2,propenalol,9,9000128,0.0
+C2H4O3,"1,2,3-trioxolane",9,6669369,0.0
+CH3COCCH,3-butyn-2-one,9,1423605,0.0
+C4H4O,Furan,9,110009,0.0
+C2H4O3,trioxolane124,9,289145,0.0
+C3H4O2,propanedial,9,542789,0.0
+C3H4O2,2-Propenoic acid,9,79107,0.0
+HOCH2COOH,Hydroxyacetic acid,9,79141,0.0
+C3H4O2,Methyl glyoxal,9,78988,0.0
+C3H4O2,β–Propiolactone,9,57578,0.0
+C2H3NO3,Oxamic acid,9,471476,0.0
+C4H2O3,Maleic Anhydride,9,108316,0.0
+CH2FCH2OH,2-fluoroethanol,9,371620,0.0
+CH2CHCH2F,Allyl Fluoride,9,818928,0.0
+CH2CFCH3,2-fluoropropene,9,1184607,0.0
+CH3CHCHF,trans-1-Fluoro-1-propene,9,20327655,0.0
+C3F6,hexafluoropropene,9,116154,0.0
+CH3SCH3,Dimethyl sulfide,9,75183,0.0
+CH3CH2SH,ethanethiol,9,75081,0.0
+CH3CSNH2,Ethanethioamide,9,62555,0.0
+C4H4S,Thiophene,9,110021,0.0
+C3H5Cl,"1-Propene, 3-chloro-",9,107051,0.0
+CH2ClCH2OH,2-Chloroethanol,9,107073,0.0
+C3H5Cl,1-chloro-1-propene(Z),9,16136848,0.0
+C3H5Cl,1-chloro-1-propene(E),9,16136859,0.0
+C4H3ClO,"Furan,3-chloro",9,50689173,0.0
+C4H3ClO,"Furan, 2-chloro",9,3187948,0.0
+C3Cl3N3,"1,3,5-Triazine, 2,4,6-trichloro-",9,108770,0.0
+Zn(CH3)2,dimethyl zinc,9,544978,0.0
+CH3SeCH3,dimethylselenide,9,593793,0.0
+C4H4Se,selenophene,9,288051,0.0
+CH3CHCH3,Isopropyl radical,10,2025550,0.0
+C3H7,n-Propyl radical,10,2143615,0.0
+C4H6,Cyclobutene,10,822355,0.0
+C4H6,1-Methylcyclopropene,10,3100047,0.0
+C4H6,Methylenecyclopropane,10,6142730,0.0
+C4H6,Bicyclo[1.1.0]butane,10,157335,0.0
+CH2CCHCH3,"1,2-Butadiene",10,590192,0.0
+CH3CCCH3,2-Butyne,10,503173,0.0
+CH2CHCHCH2,"1,3-Butadiene",10,106990,0.0
+CHCCH2CH3,1-Butyne,10,107006,0.0
+C5H5,cyclopentadienyl radical,10,2143535,0.0
+C6H4,"(Z)-Hexa-1,5-diyne-3-ene",10,16668670,0.0
+C6H4,"(E)-Hexa-1,5-diyne-3-ene",10,16668681,0.0
+C6H4,Benzyne,10,462806,0.0
+CH3NHCH3,Dimethylamine,10,124403,0.0
+CH3CH2NH2,Ethylamine,10,75047,0.0
+H2NCHCHNH2,diaminoethylene,10,4013438,0.0
+CH3NNCH3,"(E)-1,2-Dimethyldiazene",10,4143413,0.0
+CH3NNCH3,"(Z)-1,2-Dimethyldiazene",10,4143424,0.0
+C4H5N,Cyclopropanecarbonitrile,10,5500210,0.0
+C4H5N,(Z)-2-Butenenitrile,10,1190767,0.0
+C4H5N,(E)-2-Butenenitrile,10,627269,0.0
+CH2CHCH2CN,Allylcyanide,10,109751,0.0
+C4H5N,Pyrrole,10,109977,0.0
+C4H5N,2H-pyrrole,10,9000377,0.0
+C4H5N,3H-pyrrole,10,9000366,0.0
+C2H4N4,"1H-Tetrazole, 1-methyl-",10,16681779,0.0
+C2H4N4,"2H-Tetrazole, 2-methyl-",10,16681780,0.0
+C4H4N2,Succinonitrile,10,110612,0.0
+C4H4N2,Pyridazine,10,289805,0.0
+C4H4N2,"1,3-Diazine",10,289952,0.0
+C4H4N2,Pyrazine,10,290379,0.0
+C2H4N4,"1H-Tetrazole, 5-methyl-",10,4076362,0.0
+C6N4,Tetracyanoethylene,10,670542,0.0
+CH3OOCH3,dimethylperoxide,10,690028,0.0
+CH3CH2CHO,Propanal,10,123386,0.0
+C3H6O,Oxetane,10,503300,0.0
+C3H6O,2-Propen-1-ol,10,107186,0.0
+C2H6O2,"1,2-Ethanediol",10,107211,0.0
+C3H6O,Propylene oxide,10,75569,0.0
+CH3COCH3,Acetone,10,67641,0.0
+C3H5OH,Cyclopropanol,10,16545689,0.0
+C3H6O,Acetone enol,10,29456040,0.0
+H2NCH2COOH,Glycine,10,56406,0.0
+CH2CHCONH2,Acrylamide,10,79061,0.0
+CH3OCH2CN,Methoxyacetonitrile,10,1738369,0.0
+C4H4O2,"2-Oxetanone, 4-methylene-",10,674828,0.0
+C2H4CO3,Ethylene carbonate,10,96491,0.0
+C4H4O2,2(5H)-Furanone,10,497234,0.0
+C2H4N2O2,Oxalamide,10,471465,0.0
+C2H4O4,Formic acid dimer,10,14523989,0.0
+C4F6,perfluorobutadiene,10,685632,0.0
+CH3PHCH3,dimethylphosphine,10,676595,0.0
+CH3SSCH3,"Disulfide, dimethyl",10,624920,0.0
+C3H6S,"Thiirane, methyl-",10,1072431,0.0
+CH3CSCH3,Thioacetone,10,4756052,0.0
+CH2SHCH2SH,"1,2-Ethanedithiol",10,540636,0.0
+C3H6S,Thietane,10,287274,0.0
+CH3SOCH3,Dimethyl sulfoxide,10,67685,0.0
+CH5N3S,Hydrazinecarbothioamide,10,79196,0.0
+CH3SO2NH2,methanesulfonamide,10,3144090,0.0
+C3H4O2S,"2H-Thiete-1,1-dioxide",10,7285327,0.0
+C3H4S3,"1,3-Dithiolane-2-thione",10,822388,0.0
+C2H4N2S2,Ethanedithioamide,10,79403,0.0
+SF5CF3,"Sulfur, pentafluoro(trifluoromethyl)-",10,373808,0.0
+CH2CClCHCH2,"1,3-Butadiene, 2-chloro-",10,126998,0.0
+C3H5ClO,"Oxirane, (chloromethyl)-",10,106898,0.0
+C3H8,Propane,11,74986,0.0
+CH3CHCHCH2,methylallyl radical,11,16520211,0.0
+C5H6,Propellane,11,35634107,0.0
+C5H6,"1-Buten-3-yne, 2-methyl-",11,78808,0.0
+C5H6,"1,3-Cyclopentadiene",11,542927,0.0
+C5H6,"3-Penten-1-yne, (E)-",11,2004695,0.0
+C5H6,"3-Penten-1-yne, (Z)-",11,1574409,0.0
+C5H6,Bicyclo[2.1.0]pent-2-ene,11,5164352,0.0
+C5H6,Cyclopropylacetylene,11,6746947,0.0
+C6H5,phenyl,11,2396012,0.0
+C3H7N,Cyclopropylamine,11,765300,0.0
+CH7N3,triaminomethane,11,4496962,0.0
+C3H7N,Azetidine,11,503297,0.0
+C3H6N2,3-Aminopropionitrile,11,151188,0.0
+C5H5N,Bicyclo[1.1.0]butane-1-carbonitrile,11,16955354,0.0
+C5H5N,Pyridine,11,110861,0.0
+C5H5N,"E-2,4-pentadienenitrile",11,2180689,0.0
+HOCH2CH2NH2,monoethanolamine,11,141435,0.0
+C4H6O,cis-2-butenal,11,15798648,0.0
+CH2CHOCHCH2,Vinyl ether,11,109933,0.0
+HCOOC2H5,Ethyl formate,11,109944,0.0
+CH3COOCH3,methyl acetate,11,79209,0.0
+CH3CH2COOH,Propanoic Acid,11,79094,0.0
+C4H6O,"Furan, 2,5-dihydro-",11,1708298,0.0
+C4H6O,Cyclobutanone,11,1191953,0.0
+C4H6O,"Furan, 2,3-dihydro-",11,1191997,0.0
+C2H6N2O,"Urea, methyl-",11,598505,0.0
+C3H6O2,"1,3-Dioxolane",11,646060,0.0
+CHOCHCHCH3,2-Butenal,11,4170303,0.0
+C4H5NO,"Isoxazole, 5-methyl-",11,5765446,0.0
+C2H5NO3,"Nitric acid, ethyl ester",11,625581,0.0
+C4H5NO,3-Methylisoxazole,11,30842901,0.0
+C5H4O2,"4-Cyclopentene-1,3-dione",11,930609,0.0
+C5H4O2,furfural,11,980101,0.0
+CH2FCH2CH3,1-Fluoropropane,11,460139,0.0
+CH3CHFCH3,2-Fluoropropane,11,420268,0.0
+CH3CF2CH3,"2,2-difluoropropane",11,420451,0.0
+CH2FCH2CH2F,"1,3-difluoropropane",11,462395,0.0
+C3F8,perfluoropropane,11,76197,0.0
+SiH2(CH3)2,dimethylsilane,11,1111746,0.0
+Si3H8,trisilane,11,7783268,0.0
+C4H6S,"Thiophene, 2,3-dihydro-",11,1120598,0.0
+CH2CHSCHCH2,Divinyl sulfide,11,627510,0.0
+C4H6S,"Thiophene, 2,5-dihydro-",11,1708323,0.0
+CH3SSSCH3,dimethyl trisulfide,11,3658808,0.0
+C2H6O2S,Dimethyl sulfone,11,67710,0.0
+C4H5NS,4-Methylthiazole,11,693958,0.0
+CH3CHClCH3,"Propane, 2-chloro-",11,75296,0.0
+CH2ClCH2CH3,"Propane, 1-chloro-",11,540545,0.0
+CH2ClCH2CH2Cl,"1,3-dichloropropane",11,142289,0.0
+SiCl2(CH3)2,dichlorodimethylsilane,11,75785,0.0
+CHCl2CH2CH3,"1,1-dichloropropane",11,78999,0.0
+CH2ClCHClCH3,"Propane, 1,2-dichloro-",11,78875,0.0
+CH3CCl2CH3,"Propane, 2,2-dichloro-",11,594207,0.0
+C3H5Cl3,"Propane, 1,2,3-trichloro-",11,96184,0.0
+C3H5ClO2,"Carbonochloridic acid, ethyl ester",11,541413,0.0
+Fe(CO)5,Iron pentacarbonyl,11,13463406,0.0
+CH3CH2CH2Br,n-propyl bromide,11,106945,0.0
+CH3CHBrCH3,i-propyl bromide,11,75263,0.0
+CH2CHCH2CH3,1-Butene,12,106989,0.0
+CH3CHCHCH3,"2-Butene, (Z)-",12,590181,0.0
+CH2C(CH3)CH3,"1-Propene, 2-methyl-",12,115117,0.0
+C4H8,cyclobutane,12,287230,0.0
+C4H8,methylcyclopropane,12,594116,0.0
+CH3CHCHCH3,"2-Butene, (E)-",12,624646,0.0
+C5H7,"1,3-pentadienyl radical",12,14362084,0.0
+C5H7,cyclopentenyl radical,12,10577658,0.0
+C6H6,"1,2,4,5-Hexatetraene",12,29776963,0.0
+C6H6,Prismane,12,650420,0.0
+C6H6,Benzvalene,12,659858,0.0
+C6H6,"Hexa-1,5-diene-3-yne",12,821089,0.0
+C6H6,Trimethylenecycopropane,12,3227905,0.0
+C6H6,"2,4-Hexadiyne",12,2809690,0.0
+C6H6,Dewar Benzene,12,5649956,0.0
+C6H6,"3,4-Dimethylenecyclobutene",12,5291907,0.0
+C6H6,Fulvene,12,497201,0.0
+C6H6,Benzene,12,71432,0.0
+C2H8N2,Ethylenediamine,12,107153,0.0
+CH3NHNHCH3,dimethyl hydrazine,12,540738,0.0
+CH3CH2CH2CN,Butanenitrile,12,109740,0.0
+CH3CH(CH3)CN,"Propanenitrile, 2-methyl-",12,78820,0.0
+B3N3H6,borazine,12,6569513,0.0
+C4H6N2,"1H-Imidazole, 2-methyl-",12,693981,0.0
+C3H7OH,1-Propanol,12,71238,0.0
+CH3CHOHCH3,Isopropyl alcohol,12,67630,0.0
+H2OCH3OCH3,water dimethylether dimer,12,124,0.0
+CH3OC2H5,"Ethane, methoxy-",12,540670,0.0
+C3H7NO,dimethylformamide,12,68122,0.0
+C3H7NO,Propanamide,12,79050,0.0
+C4H6O2,"2-Propenoic acid, methyl ester",12,96333,0.0
+C4H6O2,γ–Butyrolactone,12,96480,0.0
+C4H6O2,Crotonic Acid,12,107937,0.0
+C5H6O,2-methylfuran,12,534225,0.0
+C4H6O2,"2,3-Butanedione",12,431038,0.0
+C5H6O,2H-Pyran,12,289667,0.0
+C3H6O3,"1,3,5-Trioxane",12,110883,0.0
+C5H6O,Pentadienal,12,764409,0.0
+C5H6O,3-Methylfuran,12,930278,0.0
+C2H6N2O2,Dimethylnitroamine,12,4164287,0.0
+C2H6N2O2,(E)-Azodioxymethane,12,37765154,0.0
+C5H5NO,2(1H)-Pyridinone,12,72762006,0.0
+C5H5NO,3(2H)-Pyridinone,12,9000004,0.0
+C5H5NO,3(6H)-Pyridinone,12,9000015,0.0
+C5H5NO,3(4H)-Pyridinone,12,9000026,0.0
+C5H5NO,2(5H)-Pyridinone,12,9000037,0.0
+C5H5NO,2(3H)-Pyridinone,12,9000048,0.0
+C5H5NO,4(3H)-Pryidinone,12,9000059,0.0
+C5H5NO,4(1H)-Pryidinone,12,9000060,0.0
+C5H5NO,4-Pyridinol,12,626642,0.0
+C6H5O,phenoxy radical,12,2122465,0.0
+C5H5NO,3-Pyridinol,12,109002,0.0
+C5H5NO,2-Pyridinol,12,109104,0.0
+C6H4O2,parabenzoquinone,12,106514,0.0
+C4H4N2O2,Uracil,12,66228,0.0
+C3H3N3O3,cyanuric acid,12,108805,0.0
+C6H5F,Fluorobenzene,12,462066,0.0
+C6H4F2,metadifluorobenzene,12,372189,0.0
+C6H4F2,orthodifluorobenzene,12,367113,0.0
+C6H4F2,"1,4-difluorobenzene",12,540363,0.0
+C6H3F3,Benzene trifluoride 123,12,1489538,0.0
+C6F6,hexafluorobenzene,12,392563,0.0
+C3H7SH,1-Propanethiol,12,107039,0.0
+CH3CHSHCH3,2-Propanethiol,12,75332,0.0
+CH3SCH2CH3,"Ethane, (methylthio)-",12,624895,0.0
+C2H6O3S,"Sulfurous acid, dimethyl ester",12,616422,0.0
+C5H6S,"Thiophene, 3-methyl-",12,616444,0.0
+C4H6OS,Vinyl sulfoxide,12,1115157,0.0
+C4H6OS,Dihydro-3-(2H)-thiophenone,12,1003049,0.0
+C4H6OS,Dihydro-2-(3H)-thiophenone,12,1003107,0.0
+CH6N4S,Carbonothioic dihydrazide,12,2231574,0.0
+C3H6S3,"Carbonotrithioic acid, dimethyl ester",12,2314489,0.0
+C5H6S,"Thiophene, 2-methyl-",12,554143,0.0
+C3H6S3,"1,3,5-Trithiane",12,291214,0.0
+C4H6OS,"4,5-dihydrothiophene-3-ol",12,9000082,0.0
+C4H6OS,"2,5-dihydrothiophene-3-ol",12,9000093,0.0
+C4H6OS,"4,5-dihydrothiophene-2-ol",12,9000106,0.0
+C4H6OS,"2,3-dihydrothiophene-2-ol",12,9000117,0.0
+S2F10,disulphur decafluoride,12,5714227,0.0
+CH3CClCHCH3,"2-Butene, 2-chloro-, (E)-",12,4894615,0.0
+CH3CClCHCH3,"2-Butene, 2-chloro-, (Z)-",12,4628211,0.0
+CHClCHCH2CH3,(Z)-1-Chloro-1-butene,12,7611861,0.0
+CHClCHCH2CH3,(E)-1-Chloro-1-butene,12,7611872,0.0
+CH2CClCH2CH3,"1-Butene, 2-chloro-",12,2211703,0.0
+CH2CHCH2CH2Cl,"1-Butene, 4-chloro-",12,927731,0.0
+CH2CHCHClCH3,"1-Butene, 3-chloro-",12,563520,0.0
+CH2ClCHCHCH3,"2-Butene, 1-chloro-",12,591979,0.0
+C6H5Cl,chlorobenzene,12,108907,0.0
+C6H4Cl2,"1,4-dichlorobenzene",12,106467,0.0
+C6H4Cl2,"1,2-dichlorobenzene",12,95501,0.0
+C6H4Cl2,"1,3-dichlorobenzene",12,541731,0.0
+C6H5Br,bromobenzene,12,108861,0.0
+B(CH3)3,trimethylborane,13,593908,0.0
+CH3CHCH2CH3,2-Butyl radical,13,2348552,0.0
+C(CH3)3,Tert-butyl radical,13,1605738,0.0
+CH2CH(CH3)2,Isobutyl radical,13,4630459,0.0
+C5H8,"1,3-Pentadiene, (E)-",13,2004708,0.0
+C5H8,"1,3-Pentadiene, (Z)-",13,1574410,0.0
+C5H8,"1,2-Butadiene, 3-methyl-",13,598254,0.0
+C5H8,1-pentyne,13,627190,0.0
+CH3CCCH2CH3,2-Pentyne,13,627214,0.0
+C5H8,Ethenylcyclopropane,13,693867,0.0
+C5H8,"Cyclobutane, methylene-",13,1120565,0.0
+C5H8,"1,3-Butadiene, 2-methyl-",13,78795,0.0
+C5H8,"1,4-Pentadiene",13,591935,0.0
+C5H8,"1,2-Pentadiene",13,591957,0.0
+C5H8,"2,3-Pentadiene",13,591968,0.0
+C5H8,Bicyclo[1.1.1]pentane,13,311751,0.0
+C5H8,Spiropentane,13,157404,0.0
+C5H8,Bicyclo[2.1.0]pentane,13,185944,0.0
+C5H8,Cyclopentene,13,142290,0.0
+NH2CH2CH2CH3,1-Propanamine,13,107108,0.0
+CH3CH(NH2)CH3,2-Propanamine,13,75310,0.0
+N(CH3)3,Trimethylamine,13,75503,0.0
+C5H7N,"1H-Pyrrole, 1-methyl-",13,96548,0.0
+C5H7N,Cyclobutanecarbonitrile,13,4426113,0.0
+C5H7N,(E)-2-Pentenenitrile,13,26294984,0.0
+C5H7N,(Z)-2-Pentenenitrile,13,25899507,0.0
+C5H7N,(E)-3-Pentenenitrile,13,16529661,0.0
+C6H5CN,phenyl cyanide,13,100470,0.0
+C5H4N4,purine,13,120730,0.0
+CHOCH2CH2CH3,Butanal,13,123728,0.0
+CH2C(CH3)OCH3,"1-Propene, 2-methoxy-",13,116110,0.0
+C4H8O,"Furan, tetrahydro-",13,109999,0.0
+C3H8O2,"1,3-Propanediol",13,504632,0.0
+CH3COCH2CH3,2-Butanone,13,78933,0.0
+CHOCH(CH3)CH3,"Propanal, 2-methyl-",13,78842,0.0
+C3H8O2,"Methane, dimethoxy-",13,109875,0.0
+C2H3OC2H5,"Ethene, ethoxy-",13,109922,0.0
+C3H8O2,Propylene glycol,13,57556,0.0
+C4H8O,Cyclobutanol,13,2919235,0.0
+C3H8O2,"Hydroperoxide, 1-methylethyl",13,3031752,0.0
+C4H7NO,"Oxazole, 4,5-dihydro-2-methyl-",13,1120645,0.0
+C4H7NO,2-Pyrrolidinone,13,616455,0.0
+HCONH2CN2H4,formamide aminomethanimine dimer,13,135,0.0
+CH3CH(NH2)COOH,Alanine,13,56417,0.0
+NH2COOC2H5,Urethane,13,51796,0.0
+NH2CH2CH2COOH,β–alanine,13,107959,0.0
+CH3NHCH2COOH,Sarcosine,13,107971,0.0
+C4H7NO,Methacrylamide,13,79390,0.0
+C3H7ONO,Propyl nitrite,13,543679,0.0
+CH3CH(CH3)ONO,Isopropyl nitrite,13,541424,0.0
+C4H7NO,Ethoxyacetonitrile,13,62957602,0.0
+C6H6O,"2,4-Cyclohexadienone",13,24599573,0.0
+C6H5OH,phenol,13,108952,0.0
+C6H6O,"2,5-Cyclohexadienone",13,5664335,0.0
+C6H5NO,nitrosobenzene,13,586969,0.0
+Al(CH3)3,trimethyl aluminum,13,75241,0.0
+N(SiH3)3,trisilylamine,13,13862163,0.0
+P(CH3)3,trimethylphosphine,13,594092,0.0
+C3H8S2,"1,3-Propanedithiol",13,109808,0.0
+C4H8S,"Thiophene, tetrahydro-",13,110010,0.0
+C6H5SH,Benzenethiol,13,108985,0.0
+As(CH3)3,trimethyl arsine,13,593884,0.0
+B4H10,Tetraborane(10),14,18283937,0.0
+B5H9,pentaborane9,14,19624227,0.0
+CH3CH2CH2CH3,Butane,14,106978,0.0
+CH3CH(CH3)CH3,Isobutane,14,75285,0.0
+C6H8,"1,3-Cyclohexadiene",14,592574,0.0
+C6H8,"1,4-Cyclohexadiene",14,628411,0.0
+C6H8,3-Methylenecyclopentene,14,930267,0.0
+C6H8,Bicyclo[2.1.1]hex-2-ene,14,822413,0.0
+C6H8,Bicyclo[3.1.0]hex-2-ene,14,694019,0.0
+C6H8,"(E)-hexa-1,3,5-triene",14,821078,0.0
+C6H8,"(Z)-hexa-1,3,5-triene",14,2612466,0.0
+C6H8,Bicyclo[2.2.0]hex-1(4)-ene,14,30830207,0.0
+C6H8,"(Z)-hexa-2,3,4-triene",14,59660649,0.0
+C6H8,"(E)-hexa-2,3,4-triene",14,59660650,0.0
+C6H5CH2,benzyl radical,14,2154565,0.0
+C7H7,cycloheptatrienyl radical,14,3551277,0.0
+C8H6,benzocyclobutadiene,14,4026237,0.0
+C8H6,Calicene,14,6249236,0.0
+C6H5CCH,phenylacetylene,14,536743,0.0
+C8H6,Pentalene,14,250259,0.0
+C4H9N,Pyrrolidine,14,123751,0.0
+C4H9N,Cyclobutylamine,14,2516349,0.0
+C6H5NH2,aniline,14,62533,0.0
+C6H7N,2-Methylpyridine,14,109068,0.0
+C4H8O2,Butanoic acid,14,107926,0.0
+NH(CH3)CONH(CH3),"Urea, N,N'-dimethyl-",14,96311,0.0
+C3H8O3,"1,2,3-Propanetriol",14,56815,0.0
+C4H8O2,"1,4-Dioxane",14,123911,0.0
+C5H8O,Cyclopentanone,14,120923,0.0
+C4H8O2,Ethyl acetate,14,141786,0.0
+C5H8O,"2H-Pyran, 3,4-dihydro-",14,110872,0.0
+C4H8O2,"1,3-Dioxane",14,505226,0.0
+C4H8O2,"1,3-Dioxolane, 2-methyl-",14,497267,0.0
+C5H8O,"Furan, 2,3-dihydro-5-methyl-",14,1487156,0.0
+C5H8O,Methyl cyclopropyl ketone,14,765435,0.0
+C4H8O2,"Ethene, 1,1-dimethoxy-",14,922690,0.0
+N(CH3)2CONH2,"Urea, N,N-dimethyl-",14,598947,0.0
+NH2CONHC2H5,"Urea, ethyl-",14,625525,0.0
+HO2CCHNH2CH2OH,Serine,14,56451,0.0
+C6H5CHO,benzaldehyde,14,100527,0.0
+C6H5NO2,Nitrobenzene,14,98953,0.0
+CH3CHFCH2CH3,2-fluorobutane,14,359013,0.0
+C4H9F,1-fluorobutane,14,2366521,0.0
+SiH(CH3)3,trimethylsilane,14,993077,0.0
+C3H8O2S,(Methylsulfonyl)ethane,14,594434,0.0
+C4H8OS,s-Ethyl thioacetate,14,625605,0.0
+CH3CCl(CH3)CH3,"Propane, 2-chloro-2-methyl-",14,507200,0.0
+CH2ClCH2CH2CH3,"Butane, 1-chloro-",14,109693,0.0
+CH3CHClCH2CH3,"Butane, 2-chloro-",14,78864,0.0
+C4H8Cl2,"1,4-Dichlorobutane",14,110565,0.0
+C4H8Cl2,"Butane, 1,2-dichloro-",14,616217,0.0
+C4H8Cl2,"Butane, 1,3-dichloro-",14,1190223,0.0
+C4H8Cl2,"Butane, 2,3-dichloro-, (r*,r*)-(.+/-.)-",14,2211678,0.0
+C4H8Cl2,"Butane, 2,3-dichloro-, (r*,s*)-",14,4028562,0.0
+C5H10,"Cyclopropane, 1,1-dimethyl-",15,1630940,0.0
+C5H10,"2-Pentene, (Z)-",15,627203,0.0
+C5H10,"2-Pentene, (E)-",15,646048,0.0
+C5H10,Cyclopentane,15,287923,0.0
+C5H10,"2-Butene, 2-methyl-",15,513359,0.0
+C5H10,"1-Butene, 2-methyl-",15,563462,0.0
+CH2CHCH2CH2CH3,1-pentene,15,109671,0.0
+C6H5CH3,toluene,15,108883,0.0
+C7H8,cycloheptatriene,15,544252,0.0
+C7H8,Quadricyclane,15,278068,0.0
+C7H8,Norbornadiene,15,121460,0.0
+C3H10N2,"1,2-Diaminopropane",15,78900,0.0
+C5H9N,Pentanenitrile,15,110598,0.0
+C5H9N,"Propanenitrile, 2,2-dimethyl-",15,630182,0.0
+C5H9N,"1,2,3,6-Tetrahydropyridine",15,694053,0.0
+C5H9N,"Butanenitrile, 2-methyl-",15,18936179,0.0
+C4H10O,"2-Butanol, (.+/-.)-",15,15892236,0.0
+C4H10O,"Propane, 2-methoxy-",15,598538,0.0
+C4H10O,Methyl propyl ether,15,557175,0.0
+C4H10O,"1-Propanol, 2-methyl-",15,78831,0.0
+C4H10O,Ethoxy ethane,15,60297,0.0
+C4H10O,1-Butanol,15,71363,0.0
+C4H10O,"Ethanol, 1,1-dimethyl-",15,75650,0.0
+C4H9NO,Butanamide,15,541355,0.0
+C4H9NO,"Propanamide, 2-methyl-",15,563837,0.0
+C5H8O2,Acetylacetone,15,123546,0.0
+C6H5COOH,benzoic acid,15,65850,0.0
+C(CH3)3SH,"2-Propanethiol, 2-methyl-",15,75661,0.0
+C4H9SH,1-Butanethiol,15,109795,0.0
+C2H5SC2H5,Diethyl sulfide,15,352932,0.0
+CH2(SH)CH(CH3)CH3,"1-Propanethiol, 2-methyl-",15,513440,0.0
+CH3CH(SH)CH2CH3,2-Butanethiol,15,513531,0.0
+CH3C(SCH3)HCH3,"Propane, 2-(methylthio)-",15,1551219,0.0
+C4H8O2S,Sulfolane,15,126330,0.0
+C4H9ClO,1-Chloro-2-ethoxyethane,15,628342,0.0
+C5H11,2-Methylbut-2-yl radical,16,4348350,0.0
+C6H10,"1,4-Hexadiene, (Z)-",16,7318674,0.0
+C6H10,"1,4-Hexadiene, (E)-",16,7319008,0.0
+C6H10,"2,4-Hexadiene, (Z,Z)-",16,6108618,0.0
+C6H10,"2,4-Hexadiene, (E,Z)-",16,5194503,0.0
+C6H10,"2,4-Hexadiene, (E,E)-",16,5194514,0.0
+C6H10,"Cyclopentene, 1-methyl-",16,693890,0.0
+C6H10,1-Hexyne,16,693027,0.0
+C6H10,2-Hexyne,16,764352,0.0
+C6H10,"1-Butyne, 3,3-dimethyl-",16,917920,0.0
+C6H10,"Cyclopentene, 3-methyl-",16,1120623,0.0
+C6H10,3-Hexyne,16,928494,0.0
+C6H10,"Cyclopentene, 4-methyl-",16,1759815,0.0
+C6H10,cyclohexene,16,110838,0.0
+C6H10,Bicyclo[3.1.0]hexane,16,285585,0.0
+C6H10,"1,5-Hexadiene",16,592427,0.0
+C6H10,"1,3-Hexadiene, (Z)-",16,14596920,0.0
+C6H10,"1,3-Hexadiene, (E)-",16,20237347,0.0
+C8H8,cubane,16,277101,0.0
+C6H5CHCH2,Styrene,16,100425,0.0
+C8H8,cyclooctatetraene,16,629209,0.0
+NH(C2H5)2,diethylamine,16,109897,0.0
+C(NH2)H2CH2CH2CH3,1-Butanamine,16,109739,0.0
+C(NH2)H2C(CH3)HCH3,"1-Propanamine, 2-methyl-",16,78819,0.0
+C(CH3)3NH2,"2-Propanamine, 2-methyl-",16,75649,0.0
+CH3C(NH2)HCH2CH3,2-Butanamine,16,13952846,0.0
+C8H7N,Indole,16,120729,0.0
+C5H10O,"2H-Pyran, tetrahydro-",16,142687,0.0
+C4H10O2,"Ethane, 1,2-dimethoxy-",16,110714,0.0
+C5H10O,Pentanal,16,110623,0.0
+C4H10O2,"1,4-Butanediol",16,110634,0.0
+C5H10O,"2-Butanone, 3-methyl-",16,563804,0.0
+C4H10O2,"1,1-Dimethoxyethane",16,534156,0.0
+C5H10O,Cyclopentanol,16,96413,0.0
+C5H10O,2-methylbutyraldehyde,16,96173,0.0
+C5H10O,3-Pentanone,16,96220,0.0
+C5H10O,2-Pentanone,16,107879,0.0
+C4H10O2,"1,3-Butanediol",16,107880,0.0
+C5H10O,"Oxetane, 3,3-dimethyl-",16,6921353,0.0
+C6H5OCH3,Anisole,16,100663,0.0
+C4H10OS,Diethyl sulfoxide,16,70291,0.0
+C5H10S,3-Ethylthio-1-propene,16,5296628,0.0
+C5H10S,"Thiophene, tetrahydro-3-methyl-",16,4740005,0.0
+C4H10S2,"1,4-Butanedithiol",16,1191088,0.0
+C5H10S,Cyclopentanethiol,16,1679078,0.0
+C5H10S,"Thiophene, tetrahydro-2-methyl-",16,1795091,0.0
+C5H10S,"2H-Thiopyran, tetrahydro-",16,1613510,0.0
+C5H12,"Butane, 2-methyl-",17,78784,0.0
+C5H12,Pentane,17,109660,0.0
+C5H12,"Propane, 2,2-dimethyl-",17,463821,0.0
+C7H10,Norbornene,17,498668,0.0
+CH(C2H3)3,trivinyl methane,17,26456633,0.0
+C9H8,"spiro[4.4]nona-1,3,6,8-tetraene",17,14867835,0.0
+C9H8,Indene,17,95136,0.0
+C5H11N,Piperidine,17,110894,0.0
+C5H11N,Cyclopentanamine,17,1003038,0.0
+C4H11NO,Diethylhydroxylamine,17,3710847,0.0
+C6H10O,cyclohexanone,17,108941,0.0
+C5H9NO2,Proline,17,147853,0.0
+CH3COC6H5,acetophenone,17,98862,0.0
+Si(CH3)4,tetramethylsilane,17,75763,0.0
+C5H11Cl,"Pentane, 1-chloro-",17,543599,0.0
+C6H12,hex-1-ene,18,592416,0.0
+C6H12,"2,3-dimethylbut-1-ene",18,563780,0.0
+C6H12,"2,3-dimethyl-but-2-ene",18,563791,0.0
+C6H12,Cyclohexane,18,110827,0.0
+C6H12,"Cyclopentane, methyl-",18,96377,0.0
+C6H12,(E)-2-Hexene,18,4050457,0.0
+C6H12,Ethylcyclobutane,18,4806615,0.0
+C6H12,(Z)-hex-2-ene,18,7688213,0.0
+C6H12,(Z)-hex-3-ene,18,7642093,0.0
+C6H12,(Z)-3-methylpent-2-ene,18,922623,0.0
+C6H12,3-methylenepentane,18,760214,0.0
+C6H12,(E)-3-methylpent-2-ene,18,616126,0.0
+C6H12,"cis-1,3-dimethylcyclobutane",18,2398096,0.0
+C6H12,"(1r,3r)-1,3-dimethylcyclobutane",18,2398109,0.0
+C6H12,"cis-1,2-dimethylcyclobutane",18,15679013,0.0
+C6H12,"(1R,2R)-1,2-dimethylcyclobutane",18,15679024,0.0
+C4H6(CH3)2,"1,1-dimethylcyclobutane",18,18931710,0.0
+C6H12,(E)-hex-3-ene,18,13269528,0.0
+CH3C6H4CH3,meta-xylene,18,108383,0.0
+C6H5CH2CH3,Ethylbenzene,18,100414,0.0
+CH3C6H4CH3,paraxylene,18,106423,0.0
+C10H8,naphthalene,18,91203,0.0
+C10H8,Azulene,18,275514,0.0
+C4H12N2,"2-Methyl-1,2-propanediamine",18,811938,0.0
+C4H12N2,"1,2-Butanediamine",18,4426486,0.0
+C5H12O,2-Pentanol,18,6032297,0.0
+C5H12O,"2-Butanol, 3-methyl-",18,598754,0.0
+C5H12O,"Propane, 1-ethoxy-",18,628320,0.0
+C5H12O,"Butane, 1-methoxy-",18,628284,0.0
+C5H12O,"Propane, 2-methoxy-2-methyl-",18,1634044,0.0
+C5H12O,"1-Butanol, 2-methyl-",18,137326,0.0
+C5H12O,"1-Butanol, 3-methyl-",18,123513,0.0
+C5H12O,3-Pentanol,18,584021,0.0
+C5H12O,1-Pentanol,18,71410,0.0
+C5H12S,"1-Butanethiol, 3-methyl-",18,541311,0.0
+C5H12S,1-Pentanethiol,18,110667,0.0
+C5H12S,"1-Butanethiol, 2-methyl-",18,1878188,0.0
+C5H12S,"1-Propanethiol, 2,2-dimethyl-",18,1679089,0.0
+C5H12S,"2-Butanethiol, 2-methyl-",18,1679090,0.0
+C5H12S,"2-Butanethiol, 3-methyl-",18,2084186,0.0
+C5H12S,"Butane, 1-(methylthio)-",18,628295,0.0
+C5H12S,"Propane, 2-methyl-2-(methylthio)-",18,6163640,0.0
+C5H12S,"Propane, 2-(ethylthio)-",18,5145993,0.0
+C5H12S,Ethyl propyl sulfide,18,4110503,0.0
+C7H12,Norbornane,19,279232,0.0
+C6H12O,Oxepane,19,592905,0.0
+C6H12O,hexanal,19,66251,0.0
+C6H14,"Butane, 2,3-dimethyl-",20,79298,0.0
+C6H14,"Pentane, 3-methyl-",20,96140,0.0
+C6H14,"Butane, 2,2-dimethyl-",20,75832,0.0
+C6H14,"Pentane, 2-methyl-",20,107835,0.0
+C6H14,Hexane,20,110543,0.0
+C10H10,bullvalene,20,1005512,0.0
+C12H8,biphenylene,20,259790,0.0
+C12H8,Acenaphthylene,20,208968,0.0
+C6H13N,cyclohexanamine,20,108918,0.0
+C6H13N,2-Methylpiperidine,20,109057,0.0
+C6H12N2,Triethylenediamine,20,280579,0.0
+C6H12O2,Hexanoic acid,20,142621,0.0
+C6H12O2,Methyl pivalate,20,598981,0.0
+C7H14,cycloheptane,21,291645,0.0
+C9H12,n-propyl benzene,21,103651,0.0
+C3H7OC3H7,di-n-propyl ether,21,111433,0.0
+Fe(C5H5)2,ferrocene,21,102545,0.0
+C8H14,Bicyclo[2.2.2]octane,22,280331,0.0
+C12H10,Heptalene,22,257249,0.0
+C12H10,biphenyl,22,92524,0.0
+C6H15N,triethylamine,22,121448,0.0
+C7H16,heptane,23,142825,0.0
+C7H16,3-methylhexane,23,589344,0.0
+C7H16,2-methylhexane,23,591764,0.0
+C13H10,Fluorene,23,86737,0.0
+C8H16,cyclooctane,24,292648,0.0
+C14H10,Anthracene,24,120127,0.0
+C14H10,Phenanthrene,24,85018,0.0
+C12H10N2,azobenzene,24,103333,0.0
+C6H12O6,Inositol,24,87898,0.0
+C6H5COC6H5,benzophenone,24,119619,0.0
+C8H18,Octane,26,111659,0.0
+(CH3)3CC(CH3)3,tetramethylbutane,26,594821,0.0
+C10H16,adamantane,26,281232,0.0
+C16H10,Pyrene,26,129000,0.0
+C8H18O,1-Octanol,27,111875,0.0
+C14H14,Bibenzyl,28,103297,0.0
+C9H20,Nonane,29,111842,0.0
+C18H12,Tetracene,30,92240,0.0
+C10H22,Decane,32,124185,0.0
+C19H16,Triphenylmethane,35,519733,0.0
+C24H12,Coronene,36,191071,0.0
+C60,Buckminsterfullerene,60,99685968,0.0
