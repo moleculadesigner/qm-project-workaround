@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+*.code-workspace
 cccbdb/cccbdb_data
 cccbdb/registry.json
 .DS_Store

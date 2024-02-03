@@ -1,0 +1,21 @@
+name: quantchem
+
+channels:
+  - defaults
+  - conda-forge
+
+
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - pandas
+  - requests
+  - jupyter
+  - lxml
+  - beautifulsoup4
+  - crest
+  - xtb
+  - openpyxl
+  - pip:
+    - rdkit
